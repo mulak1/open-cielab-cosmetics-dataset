@@ -1,0 +1,74 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "GlowIndex ChromaToneCVS & CIELAB Cosmetics Spectrophotometric API",
+    "version": "2.4.0",
+    "description": "Open-access CIE L*a*b* D65 color analysis, ChromaToneCVS skin-hair-iris vector calculator, and 121-shade Sephora/Ulta CIEDE2000 dupe matching API.",
+    "contact": {
+      "url": "https://www.glowindex.net/chromatone?ref=gh_open_cielab"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://www.glowindex.net"
+    }
+  ],
+  "paths": {
+    "/api/chromatone/calculate": {
+      "post": {
+        "operationId": "calculateChromaToneCVS",
+        "summary": "Compute 12-season color analysis, CIELAB D65 vectors, and top Sephora/drugstore lipstick matches from forehead, cheek, hair, and iris hex coordinates.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "foreheadHex",
+                  "cheekHex",
+                  "hairHex",
+                  "irisHex"
+                ],
+                "properties": {
+                  "foreheadHex": {
+                    "type": "string",
+                    "example": "#5E3A24"
+                  },
+                  "cheekHex": {
+                    "type": "string",
+                    "example": "#6B422B"
+                  },
+                  "hairHex": {
+                    "type": "string",
+                    "example": "#1A1412"
+                  },
+                  "irisHex": {
+                    "type": "string",
+                    "example": "#3B2618"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "ChromaToneCVS 12-Season & CIELAB Result"
+          }
+        }
+      }
+    },
+    "/api/dataset/cielab-cosmetics.json": {
+      "get": {
+        "operationId": "getCielabCosmeticsDataset",
+        "summary": "Download the calibrated 121-shade CIE L*a*b* D65 cosmetics & seasonal color dataset.",
+        "responses": {
+          "200": {
+            "description": "JSON Dataset"
+          }
+        }
+      }
+    }
+  }
+}

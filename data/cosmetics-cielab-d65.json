@@ -1,0 +1,3205 @@
+[
+  {
+    "id": "ct-pillow-talk-original",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "Pillow Talk Original",
+    "category": "lipstick",
+    "hex": "#B4766C",
+    "cielabD65": {
+      "L": 55.83153442923327,
+      "a": 23.108828295402674,
+      "b": 15.53898057548102
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "light_spring",
+      "warm_autumn",
+      "soft_autumn",
+      "spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "true_winter",
+      "cool_summer",
+      "true_summer",
+      "winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-pillow-talk-original?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-original.svg"
+  },
+  {
+    "id": "ct-pillow-talk-medium",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "Pillow Talk Medium",
+    "category": "lipstick",
+    "hex": "#965551",
+    "cielabD65": {
+      "L": 43.6196377657411,
+      "a": 26.446763312602982,
+      "b": 14.112445631119265
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "dark_winter",
+      "autumn",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "light_summer",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-pillow-talk-medium?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-medium.svg"
+  },
+  {
+    "id": "clinique-black-honey",
+    "brand": "Clinique",
+    "shadeName": "Black Honey",
+    "category": "lipstick",
+    "hex": "#64323E",
+    "cielabD65": {
+      "L": 27.67949263816601,
+      "a": 23.93110628162512,
+      "b": 2.7269339670474735
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "true_winter",
+      "cool_summer",
+      "soft_summer",
+      "winter",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "light_spring",
+      "spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/clinique/clinique-black-honey?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/clinique-black-honey.svg"
+  },
+  {
+    "id": "mac-velvet-teddy",
+    "brand": "MAC",
+    "shadeName": "Velvet Teddy",
+    "category": "lipstick",
+    "hex": "#A76C5C",
+    "cielabD65": {
+      "L": 51.513617108937524,
+      "a": 21.614173005368997,
+      "b": 18.67130153302191
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "cool_summer",
+      "winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-velvet-teddy?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-velvet-teddy.svg"
+  },
+  {
+    "id": "mac-ruby-woo",
+    "brand": "MAC",
+    "shadeName": "Ruby Woo",
+    "category": "lipstick",
+    "hex": "#9B1B30",
+    "cielabD65": {
+      "L": 33.91634371326902,
+      "a": 51.66809570646852,
+      "b": 22.031116105301862
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "true_winter",
+      "bright_winter",
+      "bright_spring",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "true_autumn",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-ruby-woo?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-ruby-woo.svg"
+  },
+  {
+    "id": "mac-chili",
+    "brand": "MAC",
+    "shadeName": "Chili",
+    "category": "lipstick",
+    "hex": "#9A3826",
+    "cielabD65": {
+      "L": 37.55450608181741,
+      "a": 39.91465891586499,
+      "b": 32.34764390218005
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "true_autumn",
+      "bright_spring",
+      "autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "light_summer",
+      "dark_winter",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-chili?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-chili.svg"
+  },
+  {
+    "id": "mac-syrup",
+    "brand": "MAC",
+    "shadeName": "Syrup",
+    "category": "lipstick",
+    "hex": "#A26577",
+    "cielabD65": {
+      "L": 49.88459594597737,
+      "a": 27.0692048116547,
+      "b": 0.32236052055276687
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "light_summer",
+      "soft_summer",
+      "true_summer",
+      "dark_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "warm_autumn",
+      "spring",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-syrup?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-syrup.svg"
+  },
+  {
+    "id": "merit-signature-lip-luxe",
+    "brand": "Merit Beauty",
+    "shadeName": "L'Avenue",
+    "category": "lipstick",
+    "hex": "#7E3E47",
+    "cielabD65": {
+      "L": 34.6749638689012,
+      "a": 28.620358586852774,
+      "b": 7.382484896346986
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "dark_winter",
+      "soft_autumn",
+      "autumn",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer",
+      "spring",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-signature-lip-luxe?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-signature-lip-luxe.svg"
+  },
+  {
+    "id": "dior-rouge-999",
+    "brand": "Dior",
+    "shadeName": "999 Forever Dior",
+    "category": "lipstick",
+    "hex": "#B81D24",
+    "cielabD65": {
+      "L": 39.91503935867704,
+      "a": 58.9741282490458,
+      "b": 37.72786288246722
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "bright_winter",
+      "bright_spring",
+      "winter",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "soft_summer",
+      "soft_autumn",
+      "summer",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rouge-999?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-999.svg"
+  },
+  {
+    "id": "nars-mona",
+    "brand": "NARS",
+    "shadeName": "Mona",
+    "category": "lipstick",
+    "hex": "#7E362C",
+    "cielabD65": {
+      "L": 32.38514446548084,
+      "a": 30.430400126434304,
+      "b": 21.46822970604947
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "true_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "light_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-mona?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-mona.svg"
+  },
+  {
+    "id": "dior-lip-glow-berry",
+    "brand": "Dior",
+    "shadeName": "006 Berry",
+    "category": "lip_oil",
+    "hex": "#6A253D",
+    "cielabD65": {
+      "L": 25.936695980345803,
+      "a": 33.202586459186804,
+      "b": 1.0024633405050887
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "true_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "warm_autumn",
+      "spring",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-berry?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-berry.svg"
+  },
+  {
+    "id": "dior-lip-glow-coral",
+    "brand": "Dior",
+    "shadeName": "004 Coral",
+    "category": "lip_oil",
+    "hex": "#E06B62",
+    "cielabD65": {
+      "L": 59.20405423450558,
+      "a": 44.85095700823899,
+      "b": 26.8284648937138
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "light_spring",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-coral?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-coral.svg"
+  },
+  {
+    "id": "rhode-peptide-toast",
+    "brand": "Rhode Skin",
+    "shadeName": "Toast",
+    "category": "lip_oil",
+    "hex": "#A06E5D",
+    "cielabD65": {
+      "L": 51.17189650067468,
+      "a": 17.692725091127294,
+      "b": 17.482245943688046
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "dark_winter",
+      "cool_summer",
+      "winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-peptide-toast?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-toast.svg"
+  },
+  {
+    "id": "rhode-peptide-ribbon",
+    "brand": "Rhode Skin",
+    "shadeName": "Ribbon",
+    "category": "lip_oil",
+    "hex": "#DB889E",
+    "cielabD65": {
+      "L": 65.85762918841925,
+      "a": 34.5120822132497,
+      "b": 1.8251413185724097
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "light_summer",
+      "cool_summer",
+      "soft_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-peptide-ribbon?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-ribbon.svg"
+  },
+  {
+    "id": "fenty-gloss-bomb-fenty-glow",
+    "brand": "Fenty Beauty",
+    "shadeName": "Fenty Glow (Universal Nude)",
+    "category": "lip_oil",
+    "hex": "#B27663",
+    "cielabD65": {
+      "L": 55.40529380340102,
+      "a": 21.27521377310615,
+      "b": 20.101557811717296
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "bright_spring",
+      "soft_autumn",
+      "autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-gloss-bomb-fenty-glow?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-fenty-glow.svg"
+  },
+  {
+    "id": "fenty-gloss-bomb-fu$$y",
+    "brand": "Fenty Beauty",
+    "shadeName": "Fu$$y (Romantic Pink)",
+    "category": "lip_oil",
+    "hex": "#C57E8F",
+    "cielabD65": {
+      "L": 60.5848307106712,
+      "a": 29.790005752839242,
+      "b": 2.3813830799596536
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "light_summer",
+      "true_summer",
+      "dark_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "autumn",
+      "spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-gloss-bomb-fu$$y?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-fu$$y.svg"
+  },
+  {
+    "id": "summer-fridays-pink-sugar",
+    "brand": "Summer Fridays",
+    "shadeName": "Pink Sugar",
+    "category": "lip_oil",
+    "hex": "#E498AB",
+    "cielabD65": {
+      "L": 70.7976824875712,
+      "a": 31.04046528627269,
+      "b": 1.8519703779273033
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "light_summer",
+      "cool_summer",
+      "soft_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-pink-sugar?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-pink-sugar.svg"
+  },
+  {
+    "id": "rare-blush-hope",
+    "brand": "Rare Beauty",
+    "shadeName": "Hope (Nude Mauve)",
+    "category": "blush",
+    "hex": "#C88A8A",
+    "cielabD65": {
+      "L": 63.584848881636205,
+      "a": 23.669874257036373,
+      "b": 9.582344167689127
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_summer",
+      "cool_summer",
+      "soft_autumn",
+      "summer",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "bright_winter",
+      "spring",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-hope?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-hope.svg"
+  },
+  {
+    "id": "rare-blush-joy",
+    "brand": "Rare Beauty",
+    "shadeName": "Joy (Muted Peach)",
+    "category": "blush",
+    "hex": "#D77B63",
+    "cielabD65": {
+      "L": 61.23569066526014,
+      "a": 33.356888625349136,
+      "b": 28.664834697820083
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "light_spring",
+      "warm_autumn",
+      "spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-joy?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-joy.svg"
+  },
+  {
+    "id": "rare-blush-encourage",
+    "brand": "Rare Beauty",
+    "shadeName": "Encourage (Soft Neutral Berry)",
+    "category": "blush",
+    "hex": "#9F5560",
+    "cielabD65": {
+      "L": 45.2403169457013,
+      "a": 31.727873500746075,
+      "b": 7.436860817398417
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "cool_summer",
+      "deep_autumn",
+      "winter",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "warm_spring",
+      "spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-encourage?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-encourage.svg"
+  },
+  {
+    "id": "dior-backstage-rosy-glow",
+    "brand": "Dior",
+    "shadeName": "001 Pink",
+    "category": "blush",
+    "hex": "#F77FBE",
+    "cielabD65": {
+      "L": 68.51525014132496,
+      "a": 52.97910454825527,
+      "b": -11.868126484177012
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_winter",
+      "bright_winter",
+      "light_summer",
+      "cool_summer",
+      "winter",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "soft_autumn",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-backstage-rosy-glow?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-backstage-rosy-glow.svg"
+  },
+  {
+    "id": "nars-blush-orgasm",
+    "brand": "NARS",
+    "shadeName": "Orgasm (Peachy Pink with Gold Shimmer)",
+    "category": "blush",
+    "hex": "#D77576",
+    "cielabD65": {
+      "L": 60.32110283681821,
+      "a": 38.26349653930655,
+      "b": 16.679772519439105
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "light_spring",
+      "warm_autumn",
+      "spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "true_winter",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-orgasm?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-orgasm.svg"
+  },
+  {
+    "id": "saie-dew-blush-chilly",
+    "brand": "Saie Beauty",
+    "shadeName": "Chilly (Cool Mauve)",
+    "category": "blush",
+    "hex": "#A36873",
+    "cielabD65": {
+      "L": 50.60115486947322,
+      "a": 25.178573756619915,
+      "b": 3.7575669343796303
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "soft_summer",
+      "cool_summer",
+      "dark_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "autumn",
+      "spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-chilly?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-chilly.svg"
+  },
+  {
+    "id": "merit-flush-balm-beverly",
+    "brand": "Merit Beauty",
+    "shadeName": "Beverly Hills (Soft Peach)",
+    "category": "blush",
+    "hex": "#D9897B",
+    "cielabD65": {
+      "L": 65.02321811171834,
+      "a": 28.977055097514082,
+      "b": 20.332817147629022
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "light_spring",
+      "warm_spring",
+      "bright_spring",
+      "soft_autumn",
+      "spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "dark_winter",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-flush-balm-beverly?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-beverly.svg"
+  },
+  {
+    "id": "fenty-match-stix-amber",
+    "brand": "Fenty Beauty",
+    "shadeName": "Amber (Cool Taupe)",
+    "category": "bronzer",
+    "hex": "#7A6458",
+    "cielabD65": {
+      "L": 44.17129364873993,
+      "a": 6.849827248403217,
+      "b": 10.12087800478877
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_winter",
+      "dark_winter",
+      "cool_summer",
+      "soft_summer",
+      "winter",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "autumn",
+      "spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-match-stix-amber?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-match-stix-amber.svg"
+  },
+  {
+    "id": "rare-bronzer-happy-sol",
+    "brand": "Rare Beauty",
+    "shadeName": "Happy Sol (Light to Medium Warm)",
+    "category": "bronzer",
+    "hex": "#966E53",
+    "cielabD65": {
+      "L": 49.8119784761447,
+      "a": 12.307166943707537,
+      "b": 21.266486752251566
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "warm_spring",
+      "bright_spring",
+      "autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-bronzer-happy-sol?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-bronzer-happy-sol.svg"
+  },
+  {
+    "id": "benefit-hoola",
+    "brand": "Benefit Cosmetics",
+    "shadeName": "Original Hoola",
+    "category": "bronzer",
+    "hex": "#8D6B51",
+    "cielabD65": {
+      "L": 47.97301861180246,
+      "a": 9.932651823672977,
+      "b": 19.802715179583874
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "light_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/benefit-cosmetics/benefit-hoola?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-hoola.svg"
+  },
+  {
+    "id": "nars-laguna-01",
+    "brand": "NARS",
+    "shadeName": "01 Laguna Original",
+    "category": "bronzer",
+    "hex": "#9B7458",
+    "cielabD65": {
+      "L": 52.02351859044009,
+      "a": 11.565836479470182,
+      "b": 21.42149613461949
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "warm_spring",
+      "autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-laguna-01?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-laguna-01.svg"
+  },
+  {
+    "id": "ct-hollywood-flawless-filter-02",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "2 Fair / Pale (Peachy Neutral)",
+    "category": "highlighter",
+    "hex": "#F0D4C3",
+    "cielabD65": {
+      "L": 86.77775245119311,
+      "a": 7.078281367638883,
+      "b": 11.975823763213489
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "light_spring",
+      "warm_spring",
+      "bright_spring",
+      "soft_autumn",
+      "spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "true_winter",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-hollywood-flawless-filter-02?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-hollywood-flawless-filter-02.svg"
+  },
+  {
+    "id": "rare-highlighter-enlighten",
+    "brand": "Rare Beauty",
+    "shadeName": "Enlighten (Champagne Ice)",
+    "category": "highlighter",
+    "hex": "#F9F1E6",
+    "cielabD65": {
+      "L": 95.4818013876159,
+      "a": 0.825787087427865,
+      "b": 6.2578184334826314
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "cool_summer",
+      "light_summer",
+      "winter",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-highlighter-enlighten?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-highlighter-enlighten.svg"
+  },
+  {
+    "id": "saie-glowy-super-gel-starglow",
+    "brand": "Saie Beauty",
+    "shadeName": "Starglow (Universal Champagne)",
+    "category": "highlighter",
+    "hex": "#F5E4D3",
+    "cielabD65": {
+      "L": 91.50677468210779,
+      "a": 3.03362616496633,
+      "b": 10.378265072828707
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "bright_spring",
+      "light_spring",
+      "soft_summer",
+      "light_summer",
+      "spring",
+      "summer"
+    ],
+    "clashingSeasons": [],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-glowy-super-gel-starglow?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-glowy-super-gel-starglow.svg"
+  },
+  {
+    "id": "ct-pillow-talk-quad",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "Pillow Talk Quad",
+    "category": "eyeshadow",
+    "hex": "#C5918A",
+    "cielabD65": {
+      "L": 64.92935885550925,
+      "a": 18.665949980807504,
+      "b": 11.438453820732363
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "light_spring",
+      "soft_autumn",
+      "spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "true_winter",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-pillow-talk-quad?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-quad.svg"
+  },
+  {
+    "id": "urban-decay-naked-basics",
+    "brand": "Urban Decay",
+    "shadeName": "Half Baked (Cool Taupe & Charcoal Mattes)",
+    "category": "eyeshadow",
+    "hex": "#7A7272",
+    "cielabD65": {
+      "L": 48.74437608705341,
+      "a": 3.0850226360489286,
+      "b": 1.110071428257342
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "soft_summer",
+      "cool_winter",
+      "dark_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "autumn",
+      "spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/urban-decay/urban-decay-naked-basics?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/urban-decay-naked-basics.svg"
+  },
+  {
+    "id": "dior-forever-glow-2cr",
+    "brand": "Dior",
+    "shadeName": "2CR (Cool Rosy)",
+    "category": "foundation",
+    "hex": "#E8C9B5",
+    "cielabD65": {
+      "L": 83.05532478836206,
+      "a": 7.845897153633707,
+      "b": 14.021304658759925
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "light_summer",
+      "cool_winter",
+      "bright_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-forever-glow-2cr?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-forever-glow-2cr.svg"
+  },
+  {
+    "id": "armani-luminous-silk-4",
+    "brand": "Giorgio Armani",
+    "shadeName": "4.0 (Light Golden Warm)",
+    "category": "foundation",
+    "hex": "#DFC1A2",
+    "cielabD65": {
+      "L": 79.86271441102774,
+      "a": 6.024010921182487,
+      "b": 19.556017759795765
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_spring",
+      "light_spring",
+      "warm_autumn",
+      "soft_autumn",
+      "spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "bright_winter",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/giorgio-armani/armani-luminous-silk-4?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/armani-luminous-silk-4.svg"
+  },
+  {
+    "id": "haus-labs-triclone-190",
+    "brand": "Haus Labs by Lady Gaga",
+    "shadeName": "190 (Light Medium Neutral Warm)",
+    "category": "foundation",
+    "hex": "#D6B291",
+    "cielabD65": {
+      "L": 74.9404145104958,
+      "a": 8.288379320854133,
+      "b": 21.756669763240822
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "soft_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "light_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/haus-labs-by-lady-gaga/haus-labs-triclone-190?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-triclone-190.svg"
+  },
+  {
+    "id": "fenty-soft-lit-120",
+    "brand": "Fenty Beauty",
+    "shadeName": "120 (Fair Neutral Cool)",
+    "category": "foundation",
+    "hex": "#EED0BE",
+    "cielabD65": {
+      "L": 85.50825252771251,
+      "a": 7.696624058623202,
+      "b": 12.791404001151463
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "light_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-soft-lit-120?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-soft-lit-120.svg"
+  },
+  {
+    "id": "westman-face-trace-biscuit",
+    "brand": "Westman Atelier",
+    "shadeName": "Biscuit (Cool Taupe)",
+    "category": "contour",
+    "hex": "#8D6B58",
+    "cielabD65": {
+      "L": 48.11314438130171,
+      "a": 10.80438122154076,
+      "b": 15.888570768558118
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "dark_winter",
+      "soft_summer",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_spring",
+      "bright_spring",
+      "warm_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/westman-atelier/westman-face-trace-biscuit?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/westman-face-trace-biscuit.svg"
+  },
+  {
+    "id": "mac-mehr",
+    "brand": "MAC",
+    "shadeName": "Mehr",
+    "category": "lipstick",
+    "hex": "#A06169",
+    "cielabD65": {
+      "L": 48.31609534230685,
+      "a": 26.586345318338644,
+      "b": 6.396409950597914
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "soft_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "bright_spring",
+      "autumn",
+      "spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-mehr?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-mehr.svg"
+  },
+  {
+    "id": "mac-whirl",
+    "brand": "MAC",
+    "shadeName": "Whirl",
+    "category": "lipstick",
+    "hex": "#875147",
+    "cielabD65": {
+      "L": 40.39691057312608,
+      "a": 21.421414750437435,
+      "b": 15.4818804031445
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "deep_autumn",
+      "dark_winter",
+      "autumn",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer",
+      "bright_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-whirl?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-whirl.svg"
+  },
+  {
+    "id": "mac-taupe",
+    "brand": "MAC",
+    "shadeName": "Taupe",
+    "category": "lipstick",
+    "hex": "#98594B",
+    "cielabD65": {
+      "L": 44.702226876299015,
+      "a": 24.375999532463275,
+      "b": 19.235194062840744
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "true_autumn",
+      "soft_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "true_winter",
+      "summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-taupe?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-taupe.svg"
+  },
+  {
+    "id": "mac-russian-red",
+    "brand": "MAC",
+    "shadeName": "Russian Red",
+    "category": "lipstick",
+    "hex": "#8C1B2A",
+    "cielabD65": {
+      "L": 30.707970427821238,
+      "a": 46.874570414421946,
+      "b": 21.232377153187986
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "true_winter",
+      "bright_winter",
+      "cool_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "light_spring",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-russian-red?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-russian-red.svg"
+  },
+  {
+    "id": "mac-diva",
+    "brand": "MAC",
+    "shadeName": "Diva",
+    "category": "lipstick",
+    "hex": "#641F2B",
+    "cielabD65": {
+      "L": 23.218394985879428,
+      "a": 32.03531202038781,
+      "b": 9.257123109579535
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "deep_autumn",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-diva?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-diva.svg"
+  },
+  {
+    "id": "mac-honeylove",
+    "brand": "MAC",
+    "shadeName": "Honeylove",
+    "category": "lipstick",
+    "hex": "#BE8C79",
+    "cielabD65": {
+      "L": 62.58000912772158,
+      "a": 16.457152969963694,
+      "b": 17.60770620351795
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "light_spring",
+      "warm_spring",
+      "soft_autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-honeylove?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-honeylove.svg"
+  },
+  {
+    "id": "mac-modesty",
+    "brand": "MAC",
+    "shadeName": "Modesty",
+    "category": "lipstick",
+    "hex": "#B27677",
+    "cielabD65": {
+      "L": 55.8423333303807,
+      "a": 23.696331300128993,
+      "b": 9.142434399637622
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_summer",
+      "light_summer",
+      "cool_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "bright_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-modesty?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-modesty.svg"
+  },
+  {
+    "id": "ct-walk-of-no-shame",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "Walk of No Shame",
+    "category": "lipstick",
+    "hex": "#9B4547",
+    "cielabD65": {
+      "L": 40.70567156749119,
+      "a": 36.095605206305,
+      "b": 16.404939981993106
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "true_autumn",
+      "deep_autumn",
+      "bright_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "light_summer",
+      "cool_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-walk-of-no-shame?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-walk-of-no-shame.svg"
+  },
+  {
+    "id": "ct-very-victoria",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "Very Victoria",
+    "category": "lipstick",
+    "hex": "#966D67",
+    "cielabD65": {
+      "L": 49.97978716350923,
+      "a": 15.433068735589472,
+      "b": 9.776627859822785
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "soft_summer",
+      "cool_summer",
+      "soft_autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "bright_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-very-victoria?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-very-victoria.svg"
+  },
+  {
+    "id": "ct-pillow-talk-intense",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "Pillow Talk Intense",
+    "category": "lipstick",
+    "hex": "#7A3D3C",
+    "cielabD65": {
+      "L": 33.56790065250624,
+      "a": 26.342665696555244,
+      "b": 12.776322081257208
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "dark_winter",
+      "warm_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer",
+      "cool_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-pillow-talk-intense?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-intense.svg"
+  },
+  {
+    "id": "nars-dragon-girl",
+    "brand": "NARS",
+    "shadeName": "Dragon Girl",
+    "category": "lipstick",
+    "hex": "#B21E35",
+    "cielabD65": {
+      "L": 38.990913091457664,
+      "a": 57.710920185301525,
+      "b": 26.186528242242034
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "bright_winter",
+      "true_winter",
+      "bright_spring",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "soft_autumn",
+      "soft_summer",
+      "warm_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-dragon-girl?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-dragon-girl.svg"
+  },
+  {
+    "id": "nars-dolce-vita-lip",
+    "brand": "NARS",
+    "shadeName": "Dolce Vita",
+    "category": "lipstick",
+    "hex": "#AC6869",
+    "cielabD65": {
+      "L": 51.4885467034685,
+      "a": 27.37287561978896,
+      "b": 11.10207108948018
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_summer",
+      "light_summer",
+      "soft_autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_winter",
+      "true_winter",
+      "bright_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-dolce-vita-lip?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-dolce-vita-lip.svg"
+  },
+  {
+    "id": "clinique-pink-honey",
+    "brand": "Clinique",
+    "shadeName": "Pink Honey",
+    "category": "lipstick",
+    "hex": "#C07E81",
+    "cielabD65": {
+      "L": 59.630791562646834,
+      "a": 26.003211153650284,
+      "b": 8.971260624206344
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "light_spring",
+      "light_summer",
+      "soft_summer",
+      "spring",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "dark_winter",
+      "deep_autumn",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/clinique/clinique-pink-honey?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/clinique-pink-honey.svg"
+  },
+  {
+    "id": "merit-slip",
+    "brand": "Merit Beauty",
+    "shadeName": "Slip",
+    "category": "lipstick",
+    "hex": "#A76D61",
+    "cielabD65": {
+      "L": 51.85713041670648,
+      "a": 21.61519607296636,
+      "b": 16.21911906377902
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "warm_autumn",
+      "light_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-slip?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-slip.svg"
+  },
+  {
+    "id": "glossier-ultralip-villa",
+    "brand": "Glossier",
+    "shadeName": "Villa",
+    "category": "lipstick",
+    "hex": "#BA7A7C",
+    "cielabD65": {
+      "L": 57.8615575095495,
+      "a": 25.24290912538063,
+      "b": 9.240816234056727
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "light_summer",
+      "soft_summer",
+      "light_spring",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "dark_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-ultralip-villa?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-ultralip-villa.svg"
+  },
+  {
+    "id": "glossier-gen-g-cake",
+    "brand": "Glossier",
+    "shadeName": "Cake",
+    "category": "lipstick",
+    "hex": "#B77C6B",
+    "cielabD65": {
+      "L": 57.6038146420496,
+      "a": 20.85604789227663,
+      "b": 18.599901532691465
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_spring",
+      "light_spring",
+      "soft_autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-gen-g-cake?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-gen-g-cake.svg"
+  },
+  {
+    "id": "dior-rouge-100",
+    "brand": "Dior",
+    "shadeName": "100 Nude Look",
+    "category": "lipstick",
+    "hex": "#A7736C",
+    "cielabD65": {
+      "L": 53.558397356018716,
+      "a": 19.573217099118633,
+      "b": 12.1467748242843
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "soft_summer",
+      "light_spring",
+      "summer",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "bright_winter",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rouge-100?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-100.svg"
+  },
+  {
+    "id": "dior-rouge-720",
+    "brand": "Dior",
+    "shadeName": "720 Icone",
+    "category": "lipstick",
+    "hex": "#934044",
+    "cielabD65": {
+      "L": 38.35606837871812,
+      "a": 35.36994931343487,
+      "b": 14.8824217626505
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "dark_winter",
+      "autumn",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rouge-720?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-720.svg"
+  },
+  {
+    "id": "ysl-nu-muse",
+    "brand": "Yves Saint Laurent",
+    "shadeName": "NM Nu Muse",
+    "category": "lipstick",
+    "hex": "#A96B64",
+    "cielabD65": {
+      "L": 51.69261073651748,
+      "a": 23.90483308764474,
+      "b": 14.274143349159107
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/yves-saint-laurent/ysl-nu-muse?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ysl-nu-muse.svg"
+  },
+  {
+    "id": "rhode-peptide-espresso",
+    "brand": "Rhode Skin",
+    "shadeName": "Espresso",
+    "category": "lip_oil",
+    "hex": "#643C34",
+    "cielabD65": {
+      "L": 29.88586477323578,
+      "a": 16.59518504728555,
+      "b": 12.361082050436922
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "warm_autumn",
+      "dark_winter",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer",
+      "cool_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-peptide-espresso?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-espresso.svg"
+  },
+  {
+    "id": "rhode-peptide-raspberry-jelly",
+    "brand": "Rhode Skin",
+    "shadeName": "Raspberry Jelly",
+    "category": "lip_oil",
+    "hex": "#8C314E",
+    "cielabD65": {
+      "L": 34.64815062209019,
+      "a": 41.20326775262309,
+      "b": 3.1646319046717886
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "dark_winter",
+      "bright_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-peptide-raspberry-jelly?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-raspberry-jelly.svg"
+  },
+  {
+    "id": "rare-lip-oil-wonder",
+    "brand": "Rare Beauty",
+    "shadeName": "Wonder",
+    "category": "lip_oil",
+    "hex": "#A15368",
+    "cielabD65": {
+      "L": 45.31048852252608,
+      "a": 34.56037058201833,
+      "b": 2.7011237855490755
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "soft_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-lip-oil-wonder?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-wonder.svg"
+  },
+  {
+    "id": "rare-lip-oil-delight",
+    "brand": "Rare Beauty",
+    "shadeName": "Delight",
+    "category": "lip_oil",
+    "hex": "#8A4843",
+    "cielabD65": {
+      "L": 38.62892680690827,
+      "a": 27.405602145467693,
+      "b": 15.632779310066303
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-lip-oil-delight?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-delight.svg"
+  },
+  {
+    "id": "rare-lip-oil-serenity",
+    "brand": "Rare Beauty",
+    "shadeName": "Serenity",
+    "category": "lip_oil",
+    "hex": "#B26462",
+    "cielabD65": {
+      "L": 51.22511990564921,
+      "a": 31.121631241920188,
+      "b": 14.992323220519843
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_spring",
+      "light_spring",
+      "bright_spring",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "dark_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-lip-oil-serenity?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-serenity.svg"
+  },
+  {
+    "id": "dior-lip-glow-pink",
+    "brand": "Dior",
+    "shadeName": "001 Pink",
+    "category": "lip_oil",
+    "hex": "#D98A9F",
+    "cielabD65": {
+      "L": 66.08583015116042,
+      "a": 32.862591450083244,
+      "b": 1.5630720490273697
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "light_summer",
+      "cool_summer",
+      "cool_winter",
+      "bright_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-pink?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-pink.svg"
+  },
+  {
+    "id": "dior-lip-glow-rosewood",
+    "brand": "Dior",
+    "shadeName": "012 Rosewood",
+    "category": "lip_oil",
+    "hex": "#9F5B5D",
+    "cielabD65": {
+      "L": 46.505473895926116,
+      "a": 28.05410768721789,
+      "b": 11.035261520486584
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "soft_summer",
+      "deep_autumn",
+      "autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_winter",
+      "bright_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-rosewood?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-rosewood.svg"
+  },
+  {
+    "id": "dior-lip-glow-mahogany",
+    "brand": "Dior",
+    "shadeName": "020 Mahogany",
+    "category": "lip_oil",
+    "hex": "#7A4543",
+    "cielabD65": {
+      "L": 35.596456353886296,
+      "a": 22.497003790132364,
+      "b": 11.118007213251657
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "warm_autumn",
+      "dark_winter",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "light_summer",
+      "light_spring",
+      "cool_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-mahogany?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-mahogany.svg"
+  },
+  {
+    "id": "fenty-gloss-bomb-hot-chocolat",
+    "brand": "Fenty Beauty",
+    "shadeName": "Hot Chocolat",
+    "category": "lip_oil",
+    "hex": "#6A4138",
+    "cielabD65": {
+      "L": 32.103264721445655,
+      "a": 16.677696884332654,
+      "b": 12.944413883335937
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "warm_autumn",
+      "dark_winter",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-gloss-bomb-hot-chocolat?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-hot-chocolat.svg"
+  },
+  {
+    "id": "fenty-gloss-bomb-riri",
+    "brand": "Fenty Beauty",
+    "shadeName": "Riri",
+    "category": "lip_oil",
+    "hex": "#985863",
+    "cielabD65": {
+      "L": 45.02166318231066,
+      "a": 27.738254715016897,
+      "b": 5.168225502596058
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_summer",
+      "cool_summer",
+      "soft_autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-gloss-bomb-riri?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-riri.svg"
+  },
+  {
+    "id": "summer-fridays-vanilla-beige",
+    "brand": "Summer Fridays",
+    "shadeName": "Vanilla Beige",
+    "category": "lip_oil",
+    "hex": "#A3685C",
+    "cielabD65": {
+      "L": 50.051267351001556,
+      "a": 22.23275113636747,
+      "b": 16.604472848801187
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-vanilla-beige?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-vanilla-beige.svg"
+  },
+  {
+    "id": "summer-fridays-cherry",
+    "brand": "Summer Fridays",
+    "shadeName": "Cherry",
+    "category": "lip_oil",
+    "hex": "#AC2B3C",
+    "cielabD65": {
+      "L": 39.28829033895821,
+      "a": 52.46778861582846,
+      "b": 21.93633102783702
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "bright_winter",
+      "true_winter",
+      "cool_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "soft_autumn",
+      "warm_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-cherry?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-cherry.svg"
+  },
+  {
+    "id": "summer-fridays-brown-sugar",
+    "brand": "Summer Fridays",
+    "shadeName": "Brown Sugar",
+    "category": "lip_oil",
+    "hex": "#7E4741",
+    "cielabD65": {
+      "L": 36.60234252583757,
+      "a": 22.783516770580853,
+      "b": 13.841904520159144
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "warm_autumn",
+      "dark_winter",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-brown-sugar?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-brown-sugar.svg"
+  },
+  {
+    "id": "summer-fridays-poppy",
+    "brand": "Summer Fridays",
+    "shadeName": "Poppy",
+    "category": "lip_oil",
+    "hex": "#D04E4A",
+    "cielabD65": {
+      "L": 51.102463481555944,
+      "a": 51.10610069137766,
+      "b": 29.766429688468765
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "light_spring",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-poppy?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-poppy.svg"
+  },
+  {
+    "id": "tower-28-jelly-pistachio",
+    "brand": "Tower 28 Beauty",
+    "shadeName": "Pistachio",
+    "category": "lip_oil",
+    "hex": "#C07D7F",
+    "cielabD65": {
+      "L": 59.35039779276023,
+      "a": 26.293512672845686,
+      "b": 9.722358813065647
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_summer",
+      "light_summer",
+      "soft_autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_winter",
+      "bright_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-jelly-pistachio?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-pistachio.svg"
+  },
+  {
+    "id": "tower-28-jelly-cashew",
+    "brand": "Tower 28 Beauty",
+    "shadeName": "Cashew",
+    "category": "lip_oil",
+    "hex": "#9B5B53",
+    "cielabD65": {
+      "L": 45.739397891055056,
+      "a": 25.31471888182446,
+      "b": 15.909599125373164
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-jelly-cashew?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-cashew.svg"
+  },
+  {
+    "id": "tower-28-jelly-coconut",
+    "brand": "Tower 28 Beauty",
+    "shadeName": "Coconut",
+    "category": "lip_oil",
+    "hex": "#CF858B",
+    "cielabD65": {
+      "L": 63.26620911191225,
+      "a": 29.18473666273408,
+      "b": 8.674531430023013
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "light_spring",
+      "light_summer",
+      "spring",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "dark_winter",
+      "deep_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-jelly-coconut?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-coconut.svg"
+  },
+  {
+    "id": "merit-shade-slick-sangria",
+    "brand": "Merit Beauty",
+    "shadeName": "Sangria",
+    "category": "lip_oil",
+    "hex": "#722B36",
+    "cielabD65": {
+      "L": 28.30729703881712,
+      "a": 32.351077291651706,
+      "b": 9.25364081877802
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "deep_autumn",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-shade-slick-sangria?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-shade-slick-sangria.svg"
+  },
+  {
+    "id": "merit-shade-slick-taupe",
+    "brand": "Merit Beauty",
+    "shadeName": "Taupe",
+    "category": "lip_oil",
+    "hex": "#966358",
+    "cielabD65": {
+      "L": 47.12327402634106,
+      "a": 19.250266201344346,
+      "b": 14.705777483561654
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "warm_autumn",
+      "soft_summer",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "bright_winter",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-shade-slick-taupe?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-shade-slick-taupe.svg"
+  },
+  {
+    "id": "mario-moistureglow-bare-glow",
+    "brand": "Makeup by Mario",
+    "shadeName": "Bare Glow",
+    "category": "lip_oil",
+    "hex": "#B87F75",
+    "cielabD65": {
+      "L": 58.65407062899082,
+      "a": 20.784644011592857,
+      "b": 14.344292767089573
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "light_spring",
+      "warm_spring",
+      "soft_autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/makeup-by-mario/mario-moistureglow-bare-glow?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-moistureglow-bare-glow.svg"
+  },
+  {
+    "id": "mario-moistureglow-mocha-glow",
+    "brand": "Makeup by Mario",
+    "shadeName": "Mocha Glow",
+    "category": "lip_oil",
+    "hex": "#7A473E",
+    "cielabD65": {
+      "L": 35.97052376672967,
+      "a": 20.74963545566516,
+      "b": 14.764866875432968
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "warm_autumn",
+      "dark_winter",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/makeup-by-mario/mario-moistureglow-mocha-glow?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-moistureglow-mocha-glow.svg"
+  },
+  {
+    "id": "haus-labs-phd-lip-glaze-macaron",
+    "brand": "Haus Labs by Lady Gaga",
+    "shadeName": "Macaron",
+    "category": "lip_oil",
+    "hex": "#BC7182",
+    "cielabD65": {
+      "L": 56.20339481495034,
+      "a": 31.743297969576588,
+      "b": 3.417804311898598
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "light_summer",
+      "soft_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/haus-labs-by-lady-gaga/haus-labs-phd-lip-glaze-macaron?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-phd-lip-glaze-macaron.svg"
+  },
+  {
+    "id": "haus-labs-phd-lip-glaze-guava",
+    "brand": "Haus Labs by Lady Gaga",
+    "shadeName": "Guava",
+    "category": "lip_oil",
+    "hex": "#C65B5B",
+    "cielabD65": {
+      "L": 52.11491092457918,
+      "a": 42.70001779272176,
+      "b": 20.80875913096748
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/haus-labs-by-lady-gaga/haus-labs-phd-lip-glaze-guava?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-phd-lip-glaze-guava.svg"
+  },
+  {
+    "id": "rare-blush-bliss",
+    "brand": "Rare Beauty",
+    "shadeName": "Bliss (Matte Nude Pink)",
+    "category": "blush",
+    "hex": "#D18E92",
+    "cielabD65": {
+      "L": 65.73252328517012,
+      "a": 25.977297664614373,
+      "b": 8.26213591758509
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "light_summer",
+      "soft_summer",
+      "cool_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-bliss?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-bliss.svg"
+  },
+  {
+    "id": "rare-blush-grateful",
+    "brand": "Rare Beauty",
+    "shadeName": "Grateful (True Red Dewy)",
+    "category": "blush",
+    "hex": "#A71D2A",
+    "cielabD65": {
+      "L": 36.48786006115731,
+      "a": 54.33878900023595,
+      "b": 29.46643507108514
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "bright_winter",
+      "true_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "soft_autumn",
+      "light_summer",
+      "soft_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-grateful?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-grateful.svg"
+  },
+  {
+    "id": "rare-blush-worth",
+    "brand": "Rare Beauty",
+    "shadeName": "Worth (True Rose Dewy)",
+    "category": "blush",
+    "hex": "#A95861",
+    "cielabD65": {
+      "L": 47.339273746215675,
+      "a": 34.031368173462525,
+      "b": 9.996438519483986
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "soft_summer",
+      "warm_autumn",
+      "autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_winter",
+      "light_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-worth?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-worth.svg"
+  },
+  {
+    "id": "rare-blush-happy",
+    "brand": "Rare Beauty",
+    "shadeName": "Happy (Dewy Cool Pink)",
+    "category": "blush",
+    "hex": "#D76D88",
+    "cielabD65": {
+      "L": 59.127233292588286,
+      "a": 44.320392892007455,
+      "b": 4.6074626612792935
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "bright_winter",
+      "cool_winter",
+      "light_summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-happy?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-happy.svg"
+  },
+  {
+    "id": "dior-rosy-glow-rosewood",
+    "brand": "Dior",
+    "shadeName": "012 Rosewood",
+    "category": "blush",
+    "hex": "#A15E65",
+    "cielabD65": {
+      "L": 47.6543288455537,
+      "a": 28.141514178471606,
+      "b": 7.874491308253306
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "soft_summer",
+      "deep_autumn",
+      "autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "bright_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rosy-glow-rosewood?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-rosewood.svg"
+  },
+  {
+    "id": "dior-rosy-glow-cherry",
+    "brand": "Dior",
+    "shadeName": "015 Cherry",
+    "category": "blush",
+    "hex": "#B72D43",
+    "cielabD65": {
+      "L": 41.7709412549114,
+      "a": 55.55475406041874,
+      "b": 21.191123362649734
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "bright_winter",
+      "true_winter",
+      "dark_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "soft_autumn",
+      "warm_autumn",
+      "light_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rosy-glow-cherry?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-cherry.svg"
+  },
+  {
+    "id": "dior-rosy-glow-coral",
+    "brand": "Dior",
+    "shadeName": "004 Coral",
+    "category": "blush",
+    "hex": "#D77764",
+    "cielabD65": {
+      "L": 60.39540898406301,
+      "a": 35.54189221129461,
+      "b": 27.011702661896475
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_spring",
+      "bright_spring",
+      "light_spring",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rosy-glow-coral?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-coral.svg"
+  },
+  {
+    "id": "nars-blush-deep-throat",
+    "brand": "NARS",
+    "shadeName": "Deep Throat",
+    "category": "blush",
+    "hex": "#D07C7C",
+    "cielabD65": {
+      "L": 61.031079064067995,
+      "a": 32.590959407800824,
+      "b": 14.089191607513452
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "light_spring",
+      "warm_spring",
+      "soft_autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "dark_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-deep-throat?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-deep-throat.svg"
+  },
+  {
+    "id": "nars-blush-dolce-vita",
+    "brand": "NARS",
+    "shadeName": "Dolce Vita",
+    "category": "blush",
+    "hex": "#A0595E",
+    "cielabD65": {
+      "L": 46.21531792142494,
+      "a": 29.676069071316423,
+      "b": 10.045680836690307
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_summer",
+      "soft_autumn",
+      "cool_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "bright_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-dolce-vita?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-dolce-vita.svg"
+  },
+  {
+    "id": "nars-blush-taj-mahal",
+    "brand": "NARS",
+    "shadeName": "Taj Mahal",
+    "category": "blush",
+    "hex": "#C8612A",
+    "cielabD65": {
+      "L": 52.94894427897697,
+      "a": 37.525711549973195,
+      "b": 48.512499907289055
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "true_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "light_summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-taj-mahal?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-taj-mahal.svg"
+  },
+  {
+    "id": "nars-blush-behave",
+    "brand": "NARS",
+    "shadeName": "Behave",
+    "category": "blush",
+    "hex": "#B87B7C",
+    "cielabD65": {
+      "L": 57.85964291880727,
+      "a": 23.91233205589838,
+      "b": 9.205013102716709
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "soft_summer",
+      "light_summer",
+      "cool_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-behave?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-behave.svg"
+  },
+  {
+    "id": "saie-dew-blush-rosy",
+    "brand": "Saie Beauty",
+    "shadeName": "Rosy (Warm Rose)",
+    "category": "blush",
+    "hex": "#B76669",
+    "cielabD65": {
+      "L": 52.50049212271543,
+      "a": 32.73630431717023,
+      "b": 12.732851315584682
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-rosy?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-rosy.svg"
+  },
+  {
+    "id": "saie-dew-blush-spicy",
+    "brand": "Saie Beauty",
+    "shadeName": "Spicy (Warm Terracotta)",
+    "category": "blush",
+    "hex": "#A05041",
+    "cielabD65": {
+      "L": 43.645844636752095,
+      "a": 31.7369032421545,
+      "b": 24.039377076695565
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "warm_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-spicy?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-spicy.svg"
+  },
+  {
+    "id": "saie-dew-blush-peachy",
+    "brand": "Saie Beauty",
+    "shadeName": "Peachy (Soft Peach)",
+    "category": "blush",
+    "hex": "#D88A75",
+    "cielabD65": {
+      "L": 65.01301353731961,
+      "a": 27.427675844171773,
+      "b": 23.646040741396668
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "light_spring",
+      "warm_spring",
+      "bright_spring",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "dark_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-peachy?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-peachy.svg"
+  },
+  {
+    "id": "saie-dew-blush-baby",
+    "brand": "Saie Beauty",
+    "shadeName": "Baby (Cool Baby Pink)",
+    "category": "blush",
+    "hex": "#DC829A",
+    "cielabD65": {
+      "L": 64.57763578374883,
+      "a": 37.50494632919993,
+      "b": 2.246395801334833
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "light_summer",
+      "cool_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-baby?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-baby.svg"
+  },
+  {
+    "id": "merit-flush-balm-terracotta",
+    "brand": "Merit Beauty",
+    "shadeName": "Terracotta",
+    "category": "blush",
+    "hex": "#A95E4A",
+    "cielabD65": {
+      "L": 48.18058519153148,
+      "a": 28.49426146624201,
+      "b": 24.816169576035307
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "soft_autumn",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "winter",
+      "summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-flush-balm-terracotta?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-terracotta.svg"
+  },
+  {
+    "id": "merit-flush-balm-raspberry",
+    "brand": "Merit Beauty",
+    "shadeName": "Raspberry Beret",
+    "category": "blush",
+    "hex": "#8A3246",
+    "cielabD65": {
+      "L": 34.24850743057475,
+      "a": 39.2195356138334,
+      "b": 7.708642789378239
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "dark_winter",
+      "cool_winter",
+      "true_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "light_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-flush-balm-raspberry?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-raspberry.svg"
+  },
+  {
+    "id": "merit-flush-balm-cheeky",
+    "brand": "Merit Beauty",
+    "shadeName": "Cheeky",
+    "category": "blush",
+    "hex": "#A75F6F",
+    "cielabD65": {
+      "L": 48.945049716561215,
+      "a": 31.184180213853885,
+      "b": 3.8231345679158313
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "cool_summer",
+      "soft_summer",
+      "cool_winter",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-flush-balm-cheeky?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-cheeky.svg"
+  },
+  {
+    "id": "rhode-pocket-blush-piggy",
+    "brand": "Rhode Skin",
+    "shadeName": "Piggy",
+    "category": "blush",
+    "hex": "#DE8E9D",
+    "cielabD65": {
+      "L": 67.51127806908579,
+      "a": 32.271797243784036,
+      "b": 4.8268230808742985
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "light_summer",
+      "cool_summer",
+      "bright_winter",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-piggy?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-piggy.svg"
+  },
+  {
+    "id": "rhode-pocket-blush-freckle",
+    "brand": "Rhode Skin",
+    "shadeName": "Freckle",
+    "category": "blush",
+    "hex": "#BA7765",
+    "cielabD65": {
+      "L": 56.65867469358716,
+      "a": 24.18359943296988,
+      "b": 20.81092506819866
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "warm_autumn",
+      "light_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-freckle?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-freckle.svg"
+  },
+  {
+    "id": "rhode-pocket-blush-spicy-marg",
+    "brand": "Rhode Skin",
+    "shadeName": "Spicy Marg",
+    "category": "blush",
+    "hex": "#D85F49",
+    "cielabD65": {
+      "L": 55.34801594776253,
+      "a": 46.06338450091191,
+      "b": 35.818092470195474
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "bright_spring",
+      "warm_spring",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-spicy-marg?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-spicy-marg.svg"
+  },
+  {
+    "id": "rhode-pocket-blush-sleepy-girl",
+    "brand": "Rhode Skin",
+    "shadeName": "Sleepy Girl",
+    "category": "blush",
+    "hex": "#A0636E",
+    "cielabD65": {
+      "L": 48.914382948313246,
+      "a": 26.137931251228707,
+      "b": 4.259553607686639
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "soft_summer",
+      "cool_summer",
+      "soft_autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_spring",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-sleepy-girl?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-sleepy-girl.svg"
+  },
+  {
+    "id": "rhode-pocket-blush-juice-box",
+    "brand": "Rhode Skin",
+    "shadeName": "Juice Box",
+    "category": "blush",
+    "hex": "#CF416E",
+    "cielabD65": {
+      "L": 49.708506807499646,
+      "a": 58.85982472595058,
+      "b": 6.331452520500336
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "bright_winter",
+      "cool_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-juice-box?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-juice-box.svg"
+  },
+  {
+    "id": "glossier-cloud-paint-beam",
+    "brand": "Glossier",
+    "shadeName": "Beam",
+    "category": "blush",
+    "hex": "#DE8E75",
+    "cielabD65": {
+      "L": 66.64469177465043,
+      "a": 27.64083585936855,
+      "b": 25.9531201562083
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "light_spring",
+      "warm_spring",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-cloud-paint-beam?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-beam.svg"
+  },
+  {
+    "id": "glossier-cloud-paint-storm",
+    "brand": "Glossier",
+    "shadeName": "Storm",
+    "category": "blush",
+    "hex": "#8E4848",
+    "cielabD65": {
+      "L": 39.33498931272683,
+      "a": 29.529884815757356,
+      "b": 13.590104424928395
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "warm_autumn",
+      "dark_winter",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "light_summer",
+      "light_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-cloud-paint-storm?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-storm.svg"
+  },
+  {
+    "id": "glossier-cloud-paint-puff",
+    "brand": "Glossier",
+    "shadeName": "Puff",
+    "category": "blush",
+    "hex": "#E1929F",
+    "cielabD65": {
+      "L": 68.80322288806249,
+      "a": 31.50309843914162,
+      "b": 5.612303904115579
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "light_summer",
+      "cool_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "deep_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-cloud-paint-puff?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-puff.svg"
+  },
+  {
+    "id": "benefit-benetint",
+    "brand": "Benefit Cosmetics",
+    "shadeName": "Original Rose",
+    "category": "blush",
+    "hex": "#A12838",
+    "cielabD65": {
+      "L": 36.71068136926826,
+      "a": 49.863190032766845,
+      "b": 20.72234794840594
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "true_winter",
+      "bright_winter",
+      "cool_summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/benefit-cosmetics/benefit-benetint?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-benetint.svg"
+  },
+  {
+    "id": "benefit-dandelion",
+    "brand": "Benefit Cosmetics",
+    "shadeName": "Dandelion",
+    "category": "blush",
+    "hex": "#DE99A3",
+    "cielabD65": {
+      "L": 70.14739198229046,
+      "a": 27.199101466273913,
+      "b": 5.2733451038874835
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "light_summer",
+      "soft_summer",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "deep_autumn",
+      "dark_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/benefit-cosmetics/benefit-dandelion?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-dandelion.svg"
+  },
+  {
+    "id": "tower-28-beachplease-magic-hour",
+    "brand": "Tower 28 Beauty",
+    "shadeName": "Magic Hour",
+    "category": "blush",
+    "hex": "#BF7272",
+    "cielabD65": {
+      "L": 56.415177134196725,
+      "a": 30.33569754713472,
+      "b": 13.084541058760868
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_summer",
+      "light_summer",
+      "soft_autumn",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "bright_winter",
+      "bright_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-beachplease-magic-hour?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-beachplease-magic-hour.svg"
+  },
+  {
+    "id": "tower-28-beachplease-golden-hour",
+    "brand": "Tower 28 Beauty",
+    "shadeName": "Golden Hour",
+    "category": "blush",
+    "hex": "#E07248",
+    "cielabD65": {
+      "L": 60.20745712904339,
+      "a": 39.638527111236556,
+      "b": 42.36069592732882
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_spring",
+      "bright_spring",
+      "warm_autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-beachplease-golden-hour?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-beachplease-golden-hour.svg"
+  },
+  {
+    "id": "mario-soft-pop-barely-blushing",
+    "brand": "Makeup by Mario",
+    "shadeName": "Barely Blushing",
+    "category": "blush",
+    "hex": "#D1877E",
+    "cielabD65": {
+      "L": 63.6660304974737,
+      "a": 27.285574796144687,
+      "b": 16.63059076854796
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "light_spring",
+      "warm_spring",
+      "soft_autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/makeup-by-mario/mario-soft-pop-barely-blushing?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-soft-pop-barely-blushing.svg"
+  },
+  {
+    "id": "mario-soft-pop-pinch-me-pink",
+    "brand": "Makeup by Mario",
+    "shadeName": "Pinch Me Pink",
+    "category": "blush",
+    "hex": "#E26D8B",
+    "cielabD65": {
+      "L": 60.75892081159341,
+      "a": 48.44861750684809,
+      "b": 5.420288854991617
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "bright_winter",
+      "cool_winter",
+      "light_summer",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/makeup-by-mario/mario-soft-pop-pinch-me-pink?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-soft-pop-pinch-me-pink.svg"
+  },
+  {
+    "id": "haus-labs-glassy-pitaya",
+    "brand": "Haus Labs by Lady Gaga",
+    "shadeName": "Glassy Pitaya",
+    "category": "blush",
+    "hex": "#D9396D",
+    "cielabD65": {
+      "L": 50.43656942901076,
+      "a": 64.49386331344154,
+      "b": 8.216257890665135
+    },
+    "undertone": "cool",
+    "flatteringSeasons": [
+      "bright_winter",
+      "true_winter",
+      "winter"
+    ],
+    "clashingSeasons": [
+      "warm_autumn",
+      "warm_spring",
+      "soft_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/haus-labs-by-lady-gaga/haus-labs-glassy-pitaya?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-glassy-pitaya.svg"
+  },
+  {
+    "id": "fenty-match-stix-mocha",
+    "brand": "Fenty Beauty",
+    "shadeName": "Mocha",
+    "category": "bronzer",
+    "hex": "#744634",
+    "cielabD65": {
+      "L": 34.685528602135356,
+      "a": 17.673405094570743,
+      "b": 19.117400120035043
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "deep_autumn",
+      "warm_autumn",
+      "dark_winter",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "light_spring",
+      "light_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-match-stix-mocha?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-match-stix-mocha.svg"
+  },
+  {
+    "id": "rare-bronzer-power-boost",
+    "brand": "Rare Beauty",
+    "shadeName": "Power Boost (True Neutral Tan)",
+    "category": "bronzer",
+    "hex": "#A06E55",
+    "cielabD65": {
+      "L": 51.0165689130006,
+      "a": 16.793837422541703,
+      "b": 21.917767079508764
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "light_spring",
+      "soft_summer",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "dark_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-bronzer-power-boost?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-bronzer-power-boost.svg"
+  },
+  {
+    "id": "nars-laguna-02",
+    "brand": "NARS",
+    "shadeName": "02 Original (Medium Neutral)",
+    "category": "bronzer",
+    "hex": "#966850",
+    "cielabD65": {
+      "L": 48.21616740397718,
+      "a": 15.44094405544877,
+      "b": 20.896238734733974
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "soft_autumn",
+      "warm_autumn",
+      "light_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-laguna-02?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-laguna-02.svg"
+  },
+  {
+    "id": "merit-bronze-balm-seine",
+    "brand": "Merit Beauty",
+    "shadeName": "Seine",
+    "category": "bronzer",
+    "hex": "#93634B",
+    "cielabD65": {
+      "L": 46.49336946095308,
+      "a": 16.51082474376353,
+      "b": 21.480867824226245
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "soft_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-bronze-balm-seine?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-bronze-balm-seine.svg"
+  },
+  {
+    "id": "ct-beauty-light-wand-pinkgasm",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "Pinkgasm",
+    "category": "highlighter",
+    "hex": "#D17C88",
+    "cielabD65": {
+      "L": 61.43900341109941,
+      "a": 34.3844036003797,
+      "b": 7.815730727253123
+    },
+    "undertone": "neutral",
+    "flatteringSeasons": [
+      "bright_spring",
+      "light_summer",
+      "warm_spring",
+      "spring",
+      "summer"
+    ],
+    "clashingSeasons": [
+      "dark_winter",
+      "deep_autumn"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-beauty-light-wand-pinkgasm?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-beauty-light-wand-pinkgasm.svg"
+  },
+  {
+    "id": "ct-beauty-light-wand-peachgasm",
+    "brand": "Charlotte Tilbury",
+    "shadeName": "Peachgasm",
+    "category": "highlighter",
+    "hex": "#D78C73",
+    "cielabD65": {
+      "L": 65.31372296829788,
+      "a": 25.75606907282657,
+      "b": 25.136700732635052
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_spring",
+      "light_spring",
+      "soft_autumn",
+      "spring"
+    ],
+    "clashingSeasons": [
+      "cool_winter",
+      "cool_summer",
+      "true_winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-beauty-light-wand-peachgasm?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-beauty-light-wand-peachgasm.svg"
+  },
+  {
+    "id": "saie-glowy-super-gel-sunglow",
+    "brand": "Saie Beauty",
+    "shadeName": "Sunglow (Warm Golden Bronze)",
+    "category": "highlighter",
+    "hex": "#B7845E",
+    "cielabD65": {
+      "L": 59.32444816275763,
+      "a": 15.00561198725958,
+      "b": 28.202020422328733
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "warm_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-glowy-super-gel-sunglow?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-glowy-super-gel-sunglow.svg"
+  },
+  {
+    "id": "fenty-killawatt-trophy-wife",
+    "brand": "Fenty Beauty",
+    "shadeName": "Trophy Wife",
+    "category": "highlighter",
+    "hex": "#D7AC3C",
+    "cielabD65": {
+      "L": 72.41607414598953,
+      "a": 4.495495120750315,
+      "b": 60.6537288370664
+    },
+    "undertone": "warm",
+    "flatteringSeasons": [
+      "warm_autumn",
+      "deep_autumn",
+      "bright_spring",
+      "autumn"
+    ],
+    "clashingSeasons": [
+      "cool_summer",
+      "light_summer",
+      "cool_winter",
+      "summer",
+      "winter"
+    ],
+    "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-killawatt-trophy-wife?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-killawatt-trophy-wife.svg"
+  }
+]

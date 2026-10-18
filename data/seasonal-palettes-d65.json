@@ -1,0 +1,1370 @@
+[
+  {
+    "seasonId": "deep_autumn",
+    "slug": "deep-autumn",
+    "name": "Deep Autumn",
+    "undertone": "Warm-Neutral",
+    "contrast": "High",
+    "chroma": "Rich / Saturated",
+    "signatureSwatches": [
+      {
+        "name": "Spiced Terracotta",
+        "hex": "#A84E32",
+        "role": "Signature Lip & Knitwear",
+        "lab": {
+          "l": 45,
+          "a": 34,
+          "b": 35
+        }
+      },
+      {
+        "name": "Burnt Amber",
+        "hex": "#B86B26",
+        "role": "Warm Accent / Knitwear",
+        "lab": {
+          "l": 52,
+          "a": 26,
+          "b": 52
+        }
+      },
+      {
+        "name": "Deep Espresso",
+        "hex": "#3D281E",
+        "role": "Core Neutral Base",
+        "lab": {
+          "l": 20,
+          "a": 8,
+          "b": 11
+        }
+      },
+      {
+        "name": "Spiced Oxblood",
+        "hex": "#581825",
+        "role": "Evening Accent / Statement Lip",
+        "lab": {
+          "l": 23,
+          "a": 33,
+          "b": 14
+        }
+      },
+      {
+        "name": "Forest Olive",
+        "hex": "#3B4A2B",
+        "role": "Outerwear / Earthy Shadow",
+        "lab": {
+          "l": 32,
+          "a": -12,
+          "b": 20
+        }
+      },
+      {
+        "name": "Rich Marigold",
+        "hex": "#C28424",
+        "role": "Statement Scarf / Warm Glow",
+        "lab": {
+          "l": 59,
+          "a": 16,
+          "b": 58
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Icy Baby Blue",
+        "hex": "#BFDBFE",
+        "role": "Severe Washout Hazard",
+        "lab": {
+          "l": 87,
+          "a": -6,
+          "b": -18
+        }
+      },
+      {
+        "name": "Pastel Lilac",
+        "hex": "#E9D5FF",
+        "role": "Sallow Undertone Hazard",
+        "lab": {
+          "l": 88,
+          "a": 14,
+          "b": -16
+        }
+      },
+      {
+        "name": "Cool Hot Magenta",
+        "hex": "#EC4899",
+        "role": "Dissonant Optical Clash",
+        "lab": {
+          "l": 56,
+          "a": 68,
+          "b": -11
+        }
+      },
+      {
+        "name": "Stark Chalk White",
+        "hex": "#FFFFFF",
+        "role": "Contrast Bleed Hazard",
+        "lab": {
+          "l": 100,
+          "a": 0,
+          "b": 0
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/deep-autumn?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/deep-autumn.svg"
+  },
+  {
+    "seasonId": "warm_autumn",
+    "slug": "warm-autumn",
+    "name": "Warm Autumn",
+    "undertone": "Warm",
+    "contrast": "Medium",
+    "chroma": "Rich / Earthy",
+    "signatureSwatches": [
+      {
+        "name": "Spiced Pumpkin",
+        "hex": "#BA5D2C",
+        "role": "Warm Knit / Accent",
+        "lab": {
+          "l": 50,
+          "a": 34,
+          "b": 42
+        }
+      },
+      {
+        "name": "Honey Caramel",
+        "hex": "#B87D3B",
+        "role": "Flattering Knitwear / Trench",
+        "lab": {
+          "l": 56,
+          "a": 18,
+          "b": 47
+        }
+      },
+      {
+        "name": "Warm Terracotta",
+        "hex": "#A85238",
+        "role": "Signature Lip & Cheek",
+        "lab": {
+          "l": 46,
+          "a": 32,
+          "b": 31
+        }
+      },
+      {
+        "name": "Golden Moss",
+        "hex": "#5E663B",
+        "role": "Outerwear / Earthy Eye",
+        "lab": {
+          "l": 42,
+          "a": -9,
+          "b": 24
+        }
+      },
+      {
+        "name": "Warm Chocolate",
+        "hex": "#4A3326",
+        "role": "Classic Neutral Base",
+        "lab": {
+          "l": 25,
+          "a": 9,
+          "b": 14
+        }
+      },
+      {
+        "name": "Toasted Mustard",
+        "hex": "#C49129",
+        "role": "Statement Accent",
+        "lab": {
+          "l": 62,
+          "a": 11,
+          "b": 61
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Icy Silver Blue",
+        "hex": "#93C5FD",
+        "role": "Sallow Drainage Hazard",
+        "lab": {
+          "l": 78,
+          "a": -4,
+          "b": -31
+        }
+      },
+      {
+        "name": "Cool Fuchsia",
+        "hex": "#D946EF",
+        "role": "Severe Optical Clash",
+        "lab": {
+          "l": 54,
+          "a": 73,
+          "b": -28
+        }
+      },
+      {
+        "name": "Optic Pure White",
+        "hex": "#FFFFFF",
+        "role": "Harsh Blinding Contrast",
+        "lab": {
+          "l": 100,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Cool Charcoal Gray",
+        "hex": "#374151",
+        "role": "Dulling Muddy Hazard",
+        "lab": {
+          "l": 29,
+          "a": -1,
+          "b": -8
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/warm-autumn?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/warm-autumn.svg"
+  },
+  {
+    "seasonId": "soft_autumn",
+    "slug": "soft-autumn",
+    "name": "Soft Autumn",
+    "undertone": "Warm-Neutral",
+    "contrast": "Low to Medium",
+    "chroma": "Muted / Soft",
+    "signatureSwatches": [
+      {
+        "name": "Dusty Rose Terracotta",
+        "hex": "#9E645A",
+        "role": "Signature Lip & Cheek",
+        "lab": {
+          "l": 49,
+          "a": 23,
+          "b": 16
+        }
+      },
+      {
+        "name": "Smoked Sage",
+        "hex": "#6E7A68",
+        "role": "Outerwear / Soft Accent",
+        "lab": {
+          "l": 50,
+          "a": -8,
+          "b": 9
+        }
+      },
+      {
+        "name": "Warm Camel Taupe",
+        "hex": "#A89278",
+        "role": "Core Neutral Base",
+        "lab": {
+          "l": 61,
+          "a": 5,
+          "b": 18
+        }
+      },
+      {
+        "name": "Muted Olive Khaki",
+        "hex": "#7D7958",
+        "role": "Tailored Knitwear",
+        "lab": {
+          "l": 51,
+          "a": -4,
+          "b": 20
+        }
+      },
+      {
+        "name": "Soft Peach Sand",
+        "hex": "#D1AC8D",
+        "role": "Silk Blouse / Everyday",
+        "lab": {
+          "l": 73,
+          "a": 9,
+          "b": 22
+        }
+      },
+      {
+        "name": "Deep Woodsmoke",
+        "hex": "#54463F",
+        "role": "Alternative to Black",
+        "lab": {
+          "l": 32,
+          "a": 5,
+          "b": 8
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Neon Electric Yellow",
+        "hex": "#EAB308",
+        "role": "Overwhelming Chroma Hazard",
+        "lab": {
+          "l": 76,
+          "a": 11,
+          "b": 79
+        }
+      },
+      {
+        "name": "Stark Pitch Black",
+        "hex": "#000000",
+        "role": "Harsh Shadow Hazard",
+        "lab": {
+          "l": 0,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Electric Royal Blue",
+        "hex": "#2563EB",
+        "role": "Severe Unbalance Hazard",
+        "lab": {
+          "l": 45,
+          "a": 28,
+          "b": -69
+        }
+      },
+      {
+        "name": "Hot Neon Pink",
+        "hex": "#F43F5E",
+        "role": "Chroma Saturation Clash",
+        "lab": {
+          "l": 55,
+          "a": 71,
+          "b": 24
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/soft-autumn?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/soft-autumn.svg"
+  },
+  {
+    "seasonId": "light_spring",
+    "slug": "light-spring",
+    "name": "Light Spring",
+    "undertone": "Warm-Neutral",
+    "contrast": "Low to Medium",
+    "chroma": "Bright & Luminous",
+    "signatureSwatches": [
+      {
+        "name": "Peach Blossom",
+        "hex": "#FDBA74",
+        "role": "Signature Lip & Cheek",
+        "lab": {
+          "l": 80,
+          "a": 19,
+          "b": 40
+        }
+      },
+      {
+        "name": "Sunlit Coral",
+        "hex": "#FB7185",
+        "role": "Vibrant Accent / Dress",
+        "lab": {
+          "l": 64,
+          "a": 55,
+          "b": 24
+        }
+      },
+      {
+        "name": "Warm Cream White",
+        "hex": "#FEF3C7",
+        "role": "Core Base / Alternative to White",
+        "lab": {
+          "l": 96,
+          "a": -2,
+          "b": 24
+        }
+      },
+      {
+        "name": "Mint Seafoam",
+        "hex": "#6EE7B7",
+        "role": "Fresh Spring Accent",
+        "lab": {
+          "l": 84,
+          "a": -44,
+          "b": 16
+        }
+      },
+      {
+        "name": "Soft Golden Honey",
+        "hex": "#F59E0B",
+        "role": "Warm Knit / Cardigan",
+        "lab": {
+          "l": 71,
+          "a": 25,
+          "b": 74
+        }
+      },
+      {
+        "name": "Light Aqua Marine",
+        "hex": "#38BDF8",
+        "role": "Swimwear / Eye Accent",
+        "lab": {
+          "l": 74,
+          "a": -18,
+          "b": -34
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Stark Pitch Black",
+        "hex": "#000000",
+        "role": "Extreme Drain Hazard",
+        "lab": {
+          "l": 0,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Deep Burgundy Wine",
+        "hex": "#4A0404",
+        "role": "Heavy Weight Hazard",
+        "lab": {
+          "l": 15,
+          "a": 33,
+          "b": 21
+        }
+      },
+      {
+        "name": "Charcoal Slate Gray",
+        "hex": "#1F2937",
+        "role": "Dreary Shadow Hazard",
+        "lab": {
+          "l": 18,
+          "a": -1,
+          "b": -8
+        }
+      },
+      {
+        "name": "Muddy Khaki Green",
+        "hex": "#52522C",
+        "role": "Sallow Undertone Hazard",
+        "lab": {
+          "l": 36,
+          "a": -6,
+          "b": 22
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/light-spring?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/light-spring.svg"
+  },
+  {
+    "seasonId": "warm_spring",
+    "slug": "warm-spring",
+    "name": "Warm Spring",
+    "undertone": "Warm",
+    "contrast": "Medium to High",
+    "chroma": "Vivid / Bright",
+    "signatureSwatches": [
+      {
+        "name": "Poppy Tangerine",
+        "hex": "#F97316",
+        "role": "Statement Lip / Dress",
+        "lab": {
+          "l": 63,
+          "a": 48,
+          "b": 67
+        }
+      },
+      {
+        "name": "Bright Apricot",
+        "hex": "#FB923C",
+        "role": "Signature Knit / Blush",
+        "lab": {
+          "l": 69,
+          "a": 36,
+          "b": 59
+        }
+      },
+      {
+        "name": "Warm Golden Sunshine",
+        "hex": "#FACC15",
+        "role": "Accent / Summer Top",
+        "lab": {
+          "l": 83,
+          "a": 5,
+          "b": 84
+        }
+      },
+      {
+        "name": "Bright Warm Coral",
+        "hex": "#F43F5E",
+        "role": "Signature Red Lip",
+        "lab": {
+          "l": 55,
+          "a": 71,
+          "b": 24
+        }
+      },
+      {
+        "name": "Golden Parrot Green",
+        "hex": "#84CC16",
+        "role": "Playful Accent",
+        "lab": {
+          "l": 74,
+          "a": -47,
+          "b": 73
+        }
+      },
+      {
+        "name": "Warm Cream Biscuit",
+        "hex": "#FED7AA",
+        "role": "Luminous Neutral",
+        "lab": {
+          "l": 89,
+          "a": 8,
+          "b": 26
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Dusty Slate Blue",
+        "hex": "#64748B",
+        "role": "Dulling Shadow Hazard",
+        "lab": {
+          "l": 49,
+          "a": -3,
+          "b": -13
+        }
+      },
+      {
+        "name": "Cool Icy Lavender",
+        "hex": "#C084FC",
+        "role": "Sallow Clash Hazard",
+        "lab": {
+          "l": 65,
+          "a": 44,
+          "b": -49
+        }
+      },
+      {
+        "name": "Matte Jet Black",
+        "hex": "#0F172A",
+        "role": "Overpowering Dark Hazard",
+        "lab": {
+          "l": 8,
+          "a": 1,
+          "b": -13
+        }
+      },
+      {
+        "name": "Cool Plum Berry",
+        "hex": "#6B21A8",
+        "role": "Bruised Dissonance",
+        "lab": {
+          "l": 27,
+          "a": 48,
+          "b": -38
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/warm-spring?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/warm-spring.svg"
+  },
+  {
+    "seasonId": "bright_spring",
+    "slug": "bright-spring",
+    "name": "Bright Spring",
+    "undertone": "Warm-Neutral",
+    "contrast": "High",
+    "chroma": "Ultra-Vivid / Clear",
+    "signatureSwatches": [
+      {
+        "name": "Hot Flamingo Coral",
+        "hex": "#FB7185",
+        "role": "Statement Red / Dress",
+        "lab": {
+          "l": 64,
+          "a": 55,
+          "b": 24
+        }
+      },
+      {
+        "name": "Electric Turquoise",
+        "hex": "#06B6D4",
+        "role": "Vivid Jewel Accent",
+        "lab": {
+          "l": 68,
+          "a": -32,
+          "b": -23
+        }
+      },
+      {
+        "name": "Acid Lime Chartreuse",
+        "hex": "#A3E635",
+        "role": "Runway Statement",
+        "lab": {
+          "l": 84,
+          "a": -44,
+          "b": 72
+        }
+      },
+      {
+        "name": "Sunburst Gold",
+        "hex": "#FBBF24",
+        "role": "Warm Glowing Accent",
+        "lab": {
+          "l": 79,
+          "a": 15,
+          "b": 78
+        }
+      },
+      {
+        "name": "Clean Snow Ivory",
+        "hex": "#FEF9C3",
+        "role": "High-Contrast Neutral",
+        "lab": {
+          "l": 97,
+          "a": -5,
+          "b": 30
+        }
+      },
+      {
+        "name": "Inky Ink Navy",
+        "hex": "#1E293B",
+        "role": "Contrast Anchor",
+        "lab": {
+          "l": 17,
+          "a": 1,
+          "b": -13
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Muted Dusty Taupe",
+        "hex": "#78716C",
+        "role": "Extinguishing Hazard",
+        "lab": {
+          "l": 48,
+          "a": 1,
+          "b": 5
+        }
+      },
+      {
+        "name": "Muddy Olive Drab",
+        "hex": "#44403C",
+        "role": "Dulling Mud Hazard",
+        "lab": {
+          "l": 27,
+          "a": 1,
+          "b": 4
+        }
+      },
+      {
+        "name": "Faded Heather Gray",
+        "hex": "#9CA3AF",
+        "role": "Energy Drain Hazard",
+        "lab": {
+          "l": 67,
+          "a": 0,
+          "b": -2
+        }
+      },
+      {
+        "name": "Pastel Baby Pink",
+        "hex": "#FCE7F3",
+        "role": "Washout Hazard",
+        "lab": {
+          "l": 92,
+          "a": 9,
+          "b": -4
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/bright-spring?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/bright-spring.svg"
+  },
+  {
+    "seasonId": "light_summer",
+    "slug": "light-summer",
+    "name": "Light Summer",
+    "undertone": "Cool-Neutral",
+    "contrast": "Low to Medium",
+    "chroma": "Delicate / Soft",
+    "signatureSwatches": [
+      {
+        "name": "Soft Rose Quartz",
+        "hex": "#F472B6",
+        "role": "Signature Lip & Cheek",
+        "lab": {
+          "l": 64,
+          "a": 57,
+          "b": -15
+        }
+      },
+      {
+        "name": "Icy Baby Blue",
+        "hex": "#93C5FD",
+        "role": "Classic Summer Dress",
+        "lab": {
+          "l": 78,
+          "a": -4,
+          "b": -31
+        }
+      },
+      {
+        "name": "Delicate Periwinkle",
+        "hex": "#A5B4FC",
+        "role": "Knitwear / Blouse",
+        "lab": {
+          "l": 74,
+          "a": 11,
+          "b": -37
+        }
+      },
+      {
+        "name": "Frosted Seafoam",
+        "hex": "#99F6E4",
+        "role": "Airy Accent",
+        "lab": {
+          "l": 91,
+          "a": -29,
+          "b": -6
+        }
+      },
+      {
+        "name": "Soft Platinum Taupe",
+        "hex": "#CBD5E1",
+        "role": "Core Light Neutral",
+        "lab": {
+          "l": 85,
+          "a": -1,
+          "b": -4
+        }
+      },
+      {
+        "name": "Cool Slate Smoke",
+        "hex": "#64748B",
+        "role": "Tailored Anchor",
+        "lab": {
+          "l": 49,
+          "a": -3,
+          "b": -13
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Harsh Jet Black",
+        "hex": "#000000",
+        "role": "Aggressive Shadow Hazard",
+        "lab": {
+          "l": 0,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Spiced Terracotta",
+        "hex": "#A84E32",
+        "role": "Severe Warm Clashing",
+        "lab": {
+          "l": 45,
+          "a": 34,
+          "b": 35
+        }
+      },
+      {
+        "name": "Mustard Ochre",
+        "hex": "#CA8A04",
+        "role": "Sallow Complexion Hazard",
+        "lab": {
+          "l": 58,
+          "a": 11,
+          "b": 62
+        }
+      },
+      {
+        "name": "Neon Orange",
+        "hex": "#FF5722",
+        "role": "Overwhelming Heat Hazard",
+        "lab": {
+          "l": 56,
+          "a": 62,
+          "b": 54
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/light-summer?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/light-summer.svg"
+  },
+  {
+    "seasonId": "cool_summer",
+    "slug": "cool-summer",
+    "name": "Cool Summer",
+    "undertone": "Cool",
+    "contrast": "Medium",
+    "chroma": "Muted / Slate-Cool",
+    "signatureSwatches": [
+      {
+        "name": "French Navy",
+        "hex": "#1E3A8A",
+        "role": "Core Base / Alternative to Black",
+        "lab": {
+          "l": 26,
+          "a": 15,
+          "b": -49
+        }
+      },
+      {
+        "name": "Cool English Rose",
+        "hex": "#BE185D",
+        "role": "Signature Lip / Dress",
+        "lab": {
+          "l": 40,
+          "a": 61,
+          "b": 3
+        }
+      },
+      {
+        "name": "Dusty Lavender Slate",
+        "hex": "#818CF8",
+        "role": "Soft Knitwear",
+        "lab": {
+          "l": 60,
+          "a": 24,
+          "b": -53
+        }
+      },
+      {
+        "name": "Soft Cool Raspberry",
+        "hex": "#9D174D",
+        "role": "Evening Accent",
+        "lab": {
+          "l": 33,
+          "a": 56,
+          "b": 8
+        }
+      },
+      {
+        "name": "Icy Mint Sage",
+        "hex": "#5EEAD4",
+        "role": "Fresh Summer Accent",
+        "lab": {
+          "l": 86,
+          "a": -37,
+          "b": -8
+        }
+      },
+      {
+        "name": "Cool Slate Gray",
+        "hex": "#475569",
+        "role": "Workwear Tailoring",
+        "lab": {
+          "l": 37,
+          "a": -3,
+          "b": -13
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Warm Golden Caramel",
+        "hex": "#D97706",
+        "role": "Severe Muddy Hazard",
+        "lab": {
+          "l": 59,
+          "a": 28,
+          "b": 64
+        }
+      },
+      {
+        "name": "Burnt Terracotta",
+        "hex": "#B45309",
+        "role": "Extreme Color Conflict",
+        "lab": {
+          "l": 44,
+          "a": 33,
+          "b": 53
+        }
+      },
+      {
+        "name": "Golden Mustard",
+        "hex": "#EAB308",
+        "role": "Sallow Yellowing Hazard",
+        "lab": {
+          "l": 76,
+          "a": 11,
+          "b": 79
+        }
+      },
+      {
+        "name": "Tomato Warm Red",
+        "hex": "#DC2626",
+        "role": "Discordant Heat Clash",
+        "lab": {
+          "l": 46,
+          "a": 65,
+          "b": 43
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/cool-summer?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/cool-summer.svg"
+  },
+  {
+    "seasonId": "soft_summer",
+    "slug": "soft-summer",
+    "name": "Soft Summer",
+    "undertone": "Cool-Neutral",
+    "contrast": "Low to Medium",
+    "chroma": "Extremely Muted / Dusty",
+    "signatureSwatches": [
+      {
+        "name": "Dusty Mauve Plum",
+        "hex": "#835467",
+        "role": "Signature Lip & Cheek",
+        "lab": {
+          "l": 42,
+          "a": 23,
+          "b": -4
+        }
+      },
+      {
+        "name": "Smoked Heather Rose",
+        "hex": "#A37081",
+        "role": "Knitwear / Blouse",
+        "lab": {
+          "l": 52,
+          "a": 22,
+          "b": -4
+        }
+      },
+      {
+        "name": "Antique Slate Blue",
+        "hex": "#5A6B7C",
+        "role": "Core Tailored Base",
+        "lab": {
+          "l": 44,
+          "a": -3,
+          "b": -12
+        }
+      },
+      {
+        "name": "Hazy Sage Green",
+        "hex": "#7C8879",
+        "role": "Earthy Cool Accent",
+        "lab": {
+          "l": 55,
+          "a": -8,
+          "b": 6
+        }
+      },
+      {
+        "name": "Muted Greige Taupe",
+        "hex": "#948D85",
+        "role": "Classic Trench Neutral",
+        "lab": {
+          "l": 59,
+          "a": 1,
+          "b": 4
+        }
+      },
+      {
+        "name": "Soft Charcoal Ash",
+        "hex": "#3E444D",
+        "role": "Alternative to Black",
+        "lab": {
+          "l": 28,
+          "a": -1,
+          "b": -6
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Electric Highlighter Yellow",
+        "hex": "#FEF08A",
+        "role": "Blinding Glare Hazard",
+        "lab": {
+          "l": 94,
+          "a": -11,
+          "b": 46
+        }
+      },
+      {
+        "name": "Vivid Tangerine",
+        "hex": "#F97316",
+        "role": "Extreme Heat Clash",
+        "lab": {
+          "l": 63,
+          "a": 48,
+          "b": 67
+        }
+      },
+      {
+        "name": "Stark Pitch Black",
+        "hex": "#000000",
+        "role": "Severe Shadow Hazard",
+        "lab": {
+          "l": 0,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Electric Royal Blue",
+        "hex": "#1D4ED8",
+        "role": "Chroma Overwhelm",
+        "lab": {
+          "l": 38,
+          "a": 33,
+          "b": -71
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/soft-summer?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/soft-summer.svg"
+  },
+  {
+    "seasonId": "dark_winter",
+    "slug": "deep-winter",
+    "name": "Deep Winter (Dark Winter)",
+    "undertone": "Cool-Neutral",
+    "contrast": "High",
+    "chroma": "Rich / Intense",
+    "signatureSwatches": [
+      {
+        "name": "Midnight Jet Black",
+        "hex": "#000000",
+        "role": "Supreme Statement Base",
+        "lab": {
+          "l": 0,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Rich Bordeaux Wine",
+        "hex": "#58111A",
+        "role": "Signature Lip & Evening Gown",
+        "lab": {
+          "l": 18,
+          "a": 31,
+          "b": 14
+        }
+      },
+      {
+        "name": "Icy Pine Emerald",
+        "hex": "#064E3B",
+        "role": "Luxury Knit / Coat",
+        "lab": {
+          "l": 28,
+          "a": -27,
+          "b": 7
+        }
+      },
+      {
+        "name": "Royal Midnight Navy",
+        "hex": "#0F172A",
+        "role": "Classic Anchor",
+        "lab": {
+          "l": 8,
+          "a": 1,
+          "b": -13
+        }
+      },
+      {
+        "name": "Deep Royal Violet",
+        "hex": "#4C1D95",
+        "role": "Statement Accent",
+        "lab": {
+          "l": 23,
+          "a": 44,
+          "b": -49
+        }
+      },
+      {
+        "name": "Crisp Pure White",
+        "hex": "#FFFFFF",
+        "role": "High-Contrast Accent",
+        "lab": {
+          "l": 100,
+          "a": 0,
+          "b": 0
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Warm Spiced Mustard",
+        "hex": "#CA8A04",
+        "role": "Sallow Drainage Hazard",
+        "lab": {
+          "l": 58,
+          "a": 11,
+          "b": 62
+        }
+      },
+      {
+        "name": "Warm Terracotta Brick",
+        "hex": "#A85238",
+        "role": "Muddy Optical Conflict",
+        "lab": {
+          "l": 46,
+          "a": 32,
+          "b": 31
+        }
+      },
+      {
+        "name": "Faded Heather Oatmeal",
+        "hex": "#D6D3D1",
+        "role": "Energy Washout",
+        "lab": {
+          "l": 85,
+          "a": 0,
+          "b": 1
+        }
+      },
+      {
+        "name": "Peach Salmon",
+        "hex": "#FDBA74",
+        "role": "Undertone Clash",
+        "lab": {
+          "l": 80,
+          "a": 19,
+          "b": 40
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/deep-winter?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/deep-winter.svg"
+  },
+  {
+    "seasonId": "cool_winter",
+    "slug": "cool-winter",
+    "name": "Cool Winter (True Winter)",
+    "undertone": "Cool",
+    "contrast": "High",
+    "chroma": "Clear / Vibrant",
+    "signatureSwatches": [
+      {
+        "name": "Electric Cobalt Blue",
+        "hex": "#1D4ED8",
+        "role": "Royal Statement Dress",
+        "lab": {
+          "l": 38,
+          "a": 33,
+          "b": -71
+        }
+      },
+      {
+        "name": "Iced Vivid Fuchsia",
+        "hex": "#C026D3",
+        "role": "Signature Lip / Top",
+        "lab": {
+          "l": 45,
+          "a": 73,
+          "b": -44
+        }
+      },
+      {
+        "name": "Pure Snow White",
+        "hex": "#FFFFFF",
+        "role": "Core Architectural Base",
+        "lab": {
+          "l": 100,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Pitch Obsidian Black",
+        "hex": "#000000",
+        "role": "High-Contrast Anchor",
+        "lab": {
+          "l": 0,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Icy Glacial Silver",
+        "hex": "#E2E8F0",
+        "role": "Reflective Accent",
+        "lab": {
+          "l": 92,
+          "a": -1,
+          "b": -3
+        }
+      },
+      {
+        "name": "True Imperial Ruby",
+        "hex": "#991B1B",
+        "role": "Classic Red Carpet Red",
+        "lab": {
+          "l": 31,
+          "a": 51,
+          "b": 35
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Warm Orange Amber",
+        "hex": "#D97706",
+        "role": "Extreme Clashing Hazard",
+        "lab": {
+          "l": 59,
+          "a": 28,
+          "b": 64
+        }
+      },
+      {
+        "name": "Golden Olive Moss",
+        "hex": "#65A30D",
+        "role": "Sallow Muddy Drain",
+        "lab": {
+          "l": 60,
+          "a": -43,
+          "b": 63
+        }
+      },
+      {
+        "name": "Warm Camel Beige",
+        "hex": "#D4B895",
+        "role": "Severe Energy Washout",
+        "lab": {
+          "l": 76,
+          "a": 6,
+          "b": 23
+        }
+      },
+      {
+        "name": "Peachy Apricot",
+        "hex": "#F97316",
+        "role": "Discordant Temperature Clash",
+        "lab": {
+          "l": 63,
+          "a": 48,
+          "b": 67
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/cool-winter?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/cool-winter.svg"
+  },
+  {
+    "seasonId": "bright_winter",
+    "slug": "bright-winter",
+    "name": "Bright Winter (Clear Winter)",
+    "undertone": "Cool-Neutral",
+    "contrast": "Very High",
+    "chroma": "Ultra-Vivid / Crystalline",
+    "signatureSwatches": [
+      {
+        "name": "Electric Jewel Emerald",
+        "hex": "#059669",
+        "role": "Statement Gown / Accent",
+        "lab": {
+          "l": 54,
+          "a": -44,
+          "b": 18
+        }
+      },
+      {
+        "name": "Vivid Neon Magenta",
+        "hex": "#DB2777",
+        "role": "Signature Lip / Top",
+        "lab": {
+          "l": 47,
+          "a": 73,
+          "b": -13
+        }
+      },
+      {
+        "name": "True Imperial Blue",
+        "hex": "#2563EB",
+        "role": "Striking Tailored Coat",
+        "lab": {
+          "l": 45,
+          "a": 28,
+          "b": -69
+        }
+      },
+      {
+        "name": "Glacial Stark White",
+        "hex": "#FFFFFF",
+        "role": "Architectural Base",
+        "lab": {
+          "l": 100,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Mirror Jet Black",
+        "hex": "#000000",
+        "role": "Contrast Anchor",
+        "lab": {
+          "l": 0,
+          "a": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": "Electric Acid Yellow",
+        "hex": "#FACC15",
+        "role": "Playful Jewel Accent",
+        "lab": {
+          "l": 83,
+          "a": 5,
+          "b": 84
+        }
+      }
+    ],
+    "clashingSwatches": [
+      {
+        "name": "Muted Dusty Khaki",
+        "hex": "#78716C",
+        "role": "Chroma Suffocation Hazard",
+        "lab": {
+          "l": 48,
+          "a": 1,
+          "b": 5
+        }
+      },
+      {
+        "name": "Earthy Burnt Terracotta",
+        "hex": "#9A3412",
+        "role": "Muddy Heat Conflict",
+        "lab": {
+          "l": 37,
+          "a": 39,
+          "b": 40
+        }
+      },
+      {
+        "name": "Faded Heather Mauve",
+        "hex": "#9CA3AF",
+        "role": "Dulling Energy Drain",
+        "lab": {
+          "l": 67,
+          "a": 0,
+          "b": -2
+        }
+      },
+      {
+        "name": "Soft Muted Olive",
+        "hex": "#4D533C",
+        "role": "Sallow Complexion Drain",
+        "lab": {
+          "l": 34,
+          "a": -7,
+          "b": 15
+        }
+      }
+    ],
+    "canonicalSeasonUrl": "https://www.glowindex.net/season/bright-winter?ref=gh_open_cielab",
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/season-badge/bright-winter.svg"
+  }
+]
