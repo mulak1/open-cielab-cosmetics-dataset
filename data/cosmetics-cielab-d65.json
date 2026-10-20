@@ -30,7 +30,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-pillow-talk-original?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-original.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-original.svg",
+    "productName": "Matte Revolution Lipstick"
   },
   {
     "id": "ct-pillow-talk-medium",
@@ -57,7 +58,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-pillow-talk-medium?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-medium.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-medium.svg",
+    "productName": "Matte Revolution Lipstick"
   },
   {
     "id": "clinique-black-honey",
@@ -87,7 +89,8 @@
       "spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/clinique/clinique-black-honey?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/clinique-black-honey.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/clinique-black-honey.svg",
+    "productName": "Almost Lipstick"
   },
   {
     "id": "mac-velvet-teddy",
@@ -115,7 +118,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-velvet-teddy?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-velvet-teddy.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-velvet-teddy.svg",
+    "productName": "Matte Lipstick"
   },
   {
     "id": "mac-ruby-woo",
@@ -144,7 +148,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-ruby-woo?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-ruby-woo.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-ruby-woo.svg",
+    "productName": "Retro Matte Lipstick"
   },
   {
     "id": "mac-chili",
@@ -175,7 +180,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-chili?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-chili.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-chili.svg",
+    "productName": "Matte Lipstick"
   },
   {
     "id": "mac-syrup",
@@ -206,7 +212,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-syrup?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-syrup.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-syrup.svg",
+    "productName": "Lustreglass Lipstick"
   },
   {
     "id": "merit-signature-lip-luxe",
@@ -234,7 +241,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-signature-lip-luxe?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-signature-lip-luxe.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-signature-lip-luxe.svg",
+    "productName": "Signature Lip Lightweight Lipstick"
   },
   {
     "id": "dior-rouge-999",
@@ -263,7 +271,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rouge-999?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-999.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-999.svg",
+    "productName": "Rouge Dior Forever Liquid Lipstick"
   },
   {
     "id": "nars-mona",
@@ -291,7 +300,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-mona?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-mona.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-mona.svg",
+    "productName": "Audacious Lipstick"
   },
   {
     "id": "dior-lip-glow-berry",
@@ -319,7 +329,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-berry?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-berry.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-berry.svg",
+    "productName": "Addict Lip Glow Oil"
   },
   {
     "id": "dior-lip-glow-coral",
@@ -346,7 +357,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-coral?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-coral.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-coral.svg",
+    "productName": "Addict Lip Glow Oil"
   },
   {
     "id": "rhode-peptide-toast",
@@ -373,7 +385,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-peptide-toast?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-toast.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-toast.svg",
+    "productName": "Peptide Lip Tint"
   },
   {
     "id": "rhode-peptide-ribbon",
@@ -399,7 +412,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-peptide-ribbon?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-ribbon.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-ribbon.svg",
+    "productName": "Peptide Lip Tint"
   },
   {
     "id": "fenty-gloss-bomb-fenty-glow",
@@ -427,7 +441,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-gloss-bomb-fenty-glow?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-fenty-glow.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-fenty-glow.svg",
+    "productName": "Gloss Bomb Universal Lip Luminizer"
   },
   {
     "id": "fenty-gloss-bomb-fu$$y",
@@ -456,7 +471,8 @@
       "spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-gloss-bomb-fu$$y?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-fu$$y.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-fu$$y.svg",
+    "productName": "Gloss Bomb Universal Lip Luminizer"
   },
   {
     "id": "summer-fridays-pink-sugar",
@@ -482,7 +498,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-pink-sugar?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-pink-sugar.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-pink-sugar.svg",
+    "productName": "Lip Butter Balm"
   },
   {
     "id": "rare-blush-hope",
@@ -510,7 +527,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-hope?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-hope.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-hope.svg",
+    "productName": "Soft Pinch Liquid Blush"
   },
   {
     "id": "rare-blush-joy",
@@ -539,7 +557,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-joy?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-joy.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-joy.svg",
+    "productName": "Soft Pinch Liquid Blush"
   },
   {
     "id": "rare-blush-encourage",
@@ -567,7 +586,8 @@
       "spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-encourage?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-encourage.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-encourage.svg",
+    "productName": "Soft Pinch Liquid Blush"
   },
   {
     "id": "dior-backstage-rosy-glow",
@@ -596,7 +616,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-backstage-rosy-glow?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-backstage-rosy-glow.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-backstage-rosy-glow.svg",
+    "productName": "Backstage Rosy Glow Blush"
   },
   {
     "id": "nars-blush-orgasm",
@@ -624,7 +645,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-orgasm?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-orgasm.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-orgasm.svg",
+    "productName": "Blush Powder"
   },
   {
     "id": "saie-dew-blush-chilly",
@@ -652,7 +674,8 @@
       "spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-chilly?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-chilly.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-chilly.svg",
+    "productName": "Dew Blush Liquid Cheek Flush"
   },
   {
     "id": "merit-flush-balm-beverly",
@@ -680,7 +703,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-flush-balm-beverly?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-beverly.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-beverly.svg",
+    "productName": "Flush Balm Cream Blush"
   },
   {
     "id": "fenty-match-stix-amber",
@@ -709,7 +733,8 @@
       "spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-match-stix-amber?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-match-stix-amber.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-match-stix-amber.svg",
+    "productName": "Match Stix Matte Contour Skinstick"
   },
   {
     "id": "rare-bronzer-happy-sol",
@@ -738,7 +763,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-bronzer-happy-sol?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-bronzer-happy-sol.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-bronzer-happy-sol.svg",
+    "productName": "Warm Wishes Effortless Bronzer Stick"
   },
   {
     "id": "benefit-hoola",
@@ -765,7 +791,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/benefit-cosmetics/benefit-hoola?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-hoola.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-hoola.svg",
+    "productName": "Hoola Matte Bronzer"
   },
   {
     "id": "nars-laguna-01",
@@ -791,7 +818,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-laguna-01?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-laguna-01.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-laguna-01.svg",
+    "productName": "Laguna Bronzing Powder"
   },
   {
     "id": "ct-hollywood-flawless-filter-02",
@@ -819,7 +847,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-hollywood-flawless-filter-02?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-hollywood-flawless-filter-02.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-hollywood-flawless-filter-02.svg",
+    "productName": "Hollywood Flawless Filter"
   },
   {
     "id": "rare-highlighter-enlighten",
@@ -847,7 +876,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-highlighter-enlighten?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-highlighter-enlighten.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-highlighter-enlighten.svg",
+    "productName": "Positive Light Silky Touch Highlighter"
   },
   {
     "id": "saie-glowy-super-gel-starglow",
@@ -871,7 +901,8 @@
     ],
     "clashingSeasons": [],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-glowy-super-gel-starglow?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-glowy-super-gel-starglow.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-glowy-super-gel-starglow.svg",
+    "productName": "Glowy Super Gel Lightweight Dewy Highlighter"
   },
   {
     "id": "ct-pillow-talk-quad",
@@ -899,7 +930,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-pillow-talk-quad?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-quad.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-quad.svg",
+    "productName": "Luxury Eyeshadow Palette"
   },
   {
     "id": "urban-decay-naked-basics",
@@ -928,7 +960,8 @@
       "spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/urban-decay/urban-decay-naked-basics?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/urban-decay-naked-basics.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/urban-decay-naked-basics.svg",
+    "productName": "Naked Mini Eyeshadow Palette"
   },
   {
     "id": "dior-forever-glow-2cr",
@@ -957,7 +990,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-forever-glow-2cr?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-forever-glow-2cr.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-forever-glow-2cr.svg",
+    "productName": "Forever Skin Glow Foundation"
   },
   {
     "id": "armani-luminous-silk-4",
@@ -986,7 +1020,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/giorgio-armani/armani-luminous-silk-4?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/armani-luminous-silk-4.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/armani-luminous-silk-4.svg",
+    "productName": "Luminous Silk Perfect Glow Foundation"
   },
   {
     "id": "haus-labs-triclone-190",
@@ -1013,7 +1048,8 @@
       "light_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/haus-labs-by-lady-gaga/haus-labs-triclone-190?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-triclone-190.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-triclone-190.svg",
+    "productName": "Triclone Skin Tech Medium Coverage Foundation"
   },
   {
     "id": "fenty-soft-lit-120",
@@ -1040,7 +1076,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-soft-lit-120?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-soft-lit-120.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-soft-lit-120.svg",
+    "productName": "Soft’Lit Naturally Luminous Longwear Foundation"
   },
   {
     "id": "westman-face-trace-biscuit",
@@ -1068,7 +1105,8 @@
       "warm_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/westman-atelier/westman-face-trace-biscuit?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/westman-face-trace-biscuit.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/westman-face-trace-biscuit.svg",
+    "productName": "Face Trace Cream Contour Stick"
   },
   {
     "id": "mac-mehr",
@@ -1097,7 +1135,8 @@
       "spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-mehr?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-mehr.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-mehr.svg",
+    "productName": "Matte Lipstick"
   },
   {
     "id": "mac-whirl",
@@ -1124,7 +1163,8 @@
       "bright_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-whirl?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-whirl.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-whirl.svg",
+    "productName": "Matte Lipstick"
   },
   {
     "id": "mac-taupe",
@@ -1152,7 +1192,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-taupe?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-taupe.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-taupe.svg",
+    "productName": "Matte Lipstick"
   },
   {
     "id": "mac-russian-red",
@@ -1179,7 +1220,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-russian-red?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-russian-red.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-russian-red.svg",
+    "productName": "Matte Lipstick"
   },
   {
     "id": "mac-diva",
@@ -1205,7 +1247,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-diva?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-diva.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-diva.svg",
+    "productName": "Matte Lipstick"
   },
   {
     "id": "mac-honeylove",
@@ -1231,7 +1274,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-honeylove?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-honeylove.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-honeylove.svg",
+    "productName": "Matte Lipstick"
   },
   {
     "id": "mac-modesty",
@@ -1257,7 +1301,8 @@
       "bright_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/mac/mac-modesty?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-modesty.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mac-modesty.svg",
+    "productName": "Cremesheen Lipstick"
   },
   {
     "id": "ct-walk-of-no-shame",
@@ -1284,7 +1329,8 @@
       "cool_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-walk-of-no-shame?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-walk-of-no-shame.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-walk-of-no-shame.svg",
+    "productName": "Matte Revolution Lipstick"
   },
   {
     "id": "ct-very-victoria",
@@ -1310,7 +1356,8 @@
       "bright_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-very-victoria?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-very-victoria.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-very-victoria.svg",
+    "productName": "Matte Revolution Lipstick"
   },
   {
     "id": "ct-pillow-talk-intense",
@@ -1336,7 +1383,8 @@
       "cool_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-pillow-talk-intense?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-intense.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-pillow-talk-intense.svg",
+    "productName": "K.I.S.S.I.N.G Lipstick"
   },
   {
     "id": "nars-dragon-girl",
@@ -1362,7 +1410,8 @@
       "warm_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-dragon-girl?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-dragon-girl.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-dragon-girl.svg",
+    "productName": "Powermatte Lip Pencil"
   },
   {
     "id": "nars-dolce-vita-lip",
@@ -1388,7 +1437,8 @@
       "bright_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-dolce-vita-lip?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-dolce-vita-lip.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-dolce-vita-lip.svg",
+    "productName": "Sheer Lipstick"
   },
   {
     "id": "clinique-pink-honey",
@@ -1415,7 +1465,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/clinique/clinique-pink-honey?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/clinique-pink-honey.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/clinique-pink-honey.svg",
+    "productName": "Almost Lipstick"
   },
   {
     "id": "merit-slip",
@@ -1441,7 +1492,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-slip?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-slip.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-slip.svg",
+    "productName": "Signature Lip Lightweight Lipstick"
   },
   {
     "id": "glossier-ultralip-villa",
@@ -1466,7 +1518,8 @@
       "dark_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-ultralip-villa?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-ultralip-villa.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-ultralip-villa.svg",
+    "productName": "Ultralip High Shine Lipstick"
   },
   {
     "id": "glossier-gen-g-cake",
@@ -1492,7 +1545,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-gen-g-cake?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-gen-g-cake.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-gen-g-cake.svg",
+    "productName": "Generation G Sheer Matte Lipstick"
   },
   {
     "id": "dior-rouge-100",
@@ -1518,7 +1572,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rouge-100?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-100.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-100.svg",
+    "productName": "Rouge Dior Velvet Lipstick"
   },
   {
     "id": "dior-rouge-720",
@@ -1544,7 +1599,8 @@
       "light_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rouge-720?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-720.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rouge-720.svg",
+    "productName": "Rouge Dior Velvet Lipstick"
   },
   {
     "id": "ysl-nu-muse",
@@ -1570,7 +1626,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/yves-saint-laurent/ysl-nu-muse?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ysl-nu-muse.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ysl-nu-muse.svg",
+    "productName": "Rouge Pur Couture Satin Lipstick"
   },
   {
     "id": "rhode-peptide-espresso",
@@ -1596,7 +1653,8 @@
       "cool_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-peptide-espresso?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-espresso.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-espresso.svg",
+    "productName": "Peptide Lip Tint"
   },
   {
     "id": "rhode-peptide-raspberry-jelly",
@@ -1623,7 +1681,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-peptide-raspberry-jelly?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-raspberry-jelly.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-peptide-raspberry-jelly.svg",
+    "productName": "Peptide Lip Tint"
   },
   {
     "id": "rare-lip-oil-wonder",
@@ -1650,7 +1709,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-lip-oil-wonder?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-wonder.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-wonder.svg",
+    "productName": "Soft Pinch Tinted Lip Oil"
   },
   {
     "id": "rare-lip-oil-delight",
@@ -1676,7 +1736,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-lip-oil-delight?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-delight.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-delight.svg",
+    "productName": "Soft Pinch Tinted Lip Oil"
   },
   {
     "id": "rare-lip-oil-serenity",
@@ -1701,7 +1762,8 @@
       "dark_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-lip-oil-serenity?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-serenity.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-lip-oil-serenity.svg",
+    "productName": "Soft Pinch Tinted Lip Oil"
   },
   {
     "id": "dior-lip-glow-pink",
@@ -1729,7 +1791,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-pink?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-pink.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-pink.svg",
+    "productName": "Addict Lip Glow Color Reviver Balm"
   },
   {
     "id": "dior-lip-glow-rosewood",
@@ -1755,7 +1818,8 @@
       "bright_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-rosewood?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-rosewood.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-rosewood.svg",
+    "productName": "Addict Lip Glow Oil"
   },
   {
     "id": "dior-lip-glow-mahogany",
@@ -1781,7 +1845,8 @@
       "cool_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-lip-glow-mahogany?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-mahogany.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-lip-glow-mahogany.svg",
+    "productName": "Addict Lip Glow Oil"
   },
   {
     "id": "fenty-gloss-bomb-hot-chocolat",
@@ -1806,7 +1871,8 @@
       "light_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-gloss-bomb-hot-chocolat?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-hot-chocolat.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-hot-chocolat.svg",
+    "productName": "Gloss Bomb Universal Lip Luminizer"
   },
   {
     "id": "fenty-gloss-bomb-riri",
@@ -1831,7 +1897,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-gloss-bomb-riri?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-riri.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-gloss-bomb-riri.svg",
+    "productName": "Gloss Bomb Universal Lip Luminizer"
   },
   {
     "id": "summer-fridays-vanilla-beige",
@@ -1857,7 +1924,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-vanilla-beige?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-vanilla-beige.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-vanilla-beige.svg",
+    "productName": "Lip Butter Balm"
   },
   {
     "id": "summer-fridays-cherry",
@@ -1882,7 +1950,8 @@
       "warm_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-cherry?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-cherry.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-cherry.svg",
+    "productName": "Lip Butter Balm"
   },
   {
     "id": "summer-fridays-brown-sugar",
@@ -1907,7 +1976,8 @@
       "light_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-brown-sugar?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-brown-sugar.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-brown-sugar.svg",
+    "productName": "Lip Butter Balm"
   },
   {
     "id": "summer-fridays-poppy",
@@ -1932,7 +2002,8 @@
       "cool_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/summer-fridays/summer-fridays-poppy?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-poppy.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/summer-fridays-poppy.svg",
+    "productName": "Lip Butter Balm"
   },
   {
     "id": "tower-28-jelly-pistachio",
@@ -1957,7 +2028,8 @@
       "bright_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-jelly-pistachio?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-pistachio.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-pistachio.svg",
+    "productName": "ShineOn Jelly Lip Gloss"
   },
   {
     "id": "tower-28-jelly-cashew",
@@ -1983,7 +2055,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-jelly-cashew?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-cashew.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-cashew.svg",
+    "productName": "ShineOn Jelly Lip Gloss"
   },
   {
     "id": "tower-28-jelly-coconut",
@@ -2008,7 +2081,8 @@
       "deep_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-jelly-coconut?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-coconut.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-jelly-coconut.svg",
+    "productName": "ShineOn Milky Lip Jelly"
   },
   {
     "id": "merit-shade-slick-sangria",
@@ -2034,7 +2108,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-shade-slick-sangria?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-shade-slick-sangria.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-shade-slick-sangria.svg",
+    "productName": "Shade Slick Tinted Lip Oil"
   },
   {
     "id": "merit-shade-slick-taupe",
@@ -2059,7 +2134,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-shade-slick-taupe?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-shade-slick-taupe.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-shade-slick-taupe.svg",
+    "productName": "Shade Slick Tinted Lip Oil"
   },
   {
     "id": "mario-moistureglow-bare-glow",
@@ -2085,7 +2161,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/makeup-by-mario/mario-moistureglow-bare-glow?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-moistureglow-bare-glow.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-moistureglow-bare-glow.svg",
+    "productName": "MoistureGlow Plumping Lip Serum"
   },
   {
     "id": "mario-moistureglow-mocha-glow",
@@ -2110,7 +2187,8 @@
       "light_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/makeup-by-mario/mario-moistureglow-mocha-glow?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-moistureglow-mocha-glow.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-moistureglow-mocha-glow.svg",
+    "productName": "MoistureGlow Plumping Lip Serum"
   },
   {
     "id": "haus-labs-phd-lip-glaze-macaron",
@@ -2135,7 +2213,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/haus-labs-by-lady-gaga/haus-labs-phd-lip-glaze-macaron?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-phd-lip-glaze-macaron.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-phd-lip-glaze-macaron.svg",
+    "productName": "PhD Hybrid Lip Glaze Plumping Gloss"
   },
   {
     "id": "haus-labs-phd-lip-glaze-guava",
@@ -2159,7 +2238,8 @@
       "cool_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/haus-labs-by-lady-gaga/haus-labs-phd-lip-glaze-guava?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-phd-lip-glaze-guava.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-phd-lip-glaze-guava.svg",
+    "productName": "PhD Hybrid Lip Glaze Plumping Gloss"
   },
   {
     "id": "rare-blush-bliss",
@@ -2185,7 +2265,8 @@
       "autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-bliss?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-bliss.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-bliss.svg",
+    "productName": "Soft Pinch Liquid Blush"
   },
   {
     "id": "rare-blush-grateful",
@@ -2210,7 +2291,8 @@
       "soft_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-grateful?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-grateful.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-grateful.svg",
+    "productName": "Soft Pinch Liquid Blush"
   },
   {
     "id": "rare-blush-worth",
@@ -2236,7 +2318,8 @@
       "light_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-worth?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-worth.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-worth.svg",
+    "productName": "Soft Pinch Liquid Blush"
   },
   {
     "id": "rare-blush-happy",
@@ -2261,7 +2344,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-blush-happy?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-happy.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-blush-happy.svg",
+    "productName": "Soft Pinch Liquid Blush"
   },
   {
     "id": "dior-rosy-glow-rosewood",
@@ -2287,7 +2371,8 @@
       "bright_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rosy-glow-rosewood?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-rosewood.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-rosewood.svg",
+    "productName": "Backstage Rosy Glow Blush"
   },
   {
     "id": "dior-rosy-glow-cherry",
@@ -2313,7 +2398,8 @@
       "light_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rosy-glow-cherry?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-cherry.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-cherry.svg",
+    "productName": "Backstage Rosy Glow Blush"
   },
   {
     "id": "dior-rosy-glow-coral",
@@ -2339,7 +2425,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/dior/dior-rosy-glow-coral?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-coral.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/dior-rosy-glow-coral.svg",
+    "productName": "Backstage Rosy Glow Blush"
   },
   {
     "id": "nars-blush-deep-throat",
@@ -2364,7 +2451,8 @@
       "dark_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-deep-throat?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-deep-throat.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-deep-throat.svg",
+    "productName": "Blush Powder"
   },
   {
     "id": "nars-blush-dolce-vita",
@@ -2389,7 +2477,8 @@
       "bright_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-dolce-vita?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-dolce-vita.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-dolce-vita.svg",
+    "productName": "Blush Powder"
   },
   {
     "id": "nars-blush-taj-mahal",
@@ -2416,7 +2505,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-taj-mahal?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-taj-mahal.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-taj-mahal.svg",
+    "productName": "Blush Powder"
   },
   {
     "id": "nars-blush-behave",
@@ -2441,7 +2531,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-blush-behave?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-behave.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-blush-behave.svg",
+    "productName": "Blush Powder"
   },
   {
     "id": "saie-dew-blush-rosy",
@@ -2466,7 +2557,8 @@
       "cool_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-rosy?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-rosy.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-rosy.svg",
+    "productName": "Dew Blush Liquid Cheek Flush"
   },
   {
     "id": "saie-dew-blush-spicy",
@@ -2492,7 +2584,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-spicy?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-spicy.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-spicy.svg",
+    "productName": "Dew Blush Liquid Cheek Flush"
   },
   {
     "id": "saie-dew-blush-peachy",
@@ -2518,7 +2611,8 @@
       "dark_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-peachy?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-peachy.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-peachy.svg",
+    "productName": "Dew Blush Liquid Cheek Flush"
   },
   {
     "id": "saie-dew-blush-baby",
@@ -2544,7 +2638,8 @@
       "deep_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-dew-blush-baby?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-baby.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-dew-blush-baby.svg",
+    "productName": "Dew Blush Liquid Cheek Flush"
   },
   {
     "id": "merit-flush-balm-terracotta",
@@ -2571,7 +2666,8 @@
       "summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-flush-balm-terracotta?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-terracotta.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-terracotta.svg",
+    "productName": "Flush Balm Cream Blush"
   },
   {
     "id": "merit-flush-balm-raspberry",
@@ -2597,7 +2693,8 @@
       "light_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-flush-balm-raspberry?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-raspberry.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-raspberry.svg",
+    "productName": "Flush Balm Cream Blush"
   },
   {
     "id": "merit-flush-balm-cheeky",
@@ -2622,7 +2719,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-flush-balm-cheeky?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-cheeky.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-flush-balm-cheeky.svg",
+    "productName": "Flush Balm Cream Blush"
   },
   {
     "id": "rhode-pocket-blush-piggy",
@@ -2647,7 +2745,8 @@
       "deep_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-piggy?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-piggy.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-piggy.svg",
+    "productName": "Pocket Blush"
   },
   {
     "id": "rhode-pocket-blush-freckle",
@@ -2672,7 +2771,8 @@
       "cool_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-freckle?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-freckle.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-freckle.svg",
+    "productName": "Pocket Blush"
   },
   {
     "id": "rhode-pocket-blush-spicy-marg",
@@ -2697,7 +2797,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-spicy-marg?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-spicy-marg.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-spicy-marg.svg",
+    "productName": "Pocket Blush"
   },
   {
     "id": "rhode-pocket-blush-sleepy-girl",
@@ -2722,7 +2823,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-sleepy-girl?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-sleepy-girl.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-sleepy-girl.svg",
+    "productName": "Pocket Blush"
   },
   {
     "id": "rhode-pocket-blush-juice-box",
@@ -2746,7 +2848,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rhode-skin/rhode-pocket-blush-juice-box?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-juice-box.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rhode-pocket-blush-juice-box.svg",
+    "productName": "Pocket Blush"
   },
   {
     "id": "glossier-cloud-paint-beam",
@@ -2770,7 +2873,8 @@
       "cool_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-cloud-paint-beam?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-beam.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-beam.svg",
+    "productName": "Cloud Paint Gel-Cream Blush"
   },
   {
     "id": "glossier-cloud-paint-storm",
@@ -2795,7 +2899,8 @@
       "light_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-cloud-paint-storm?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-storm.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-storm.svg",
+    "productName": "Cloud Paint Gel-Cream Blush"
   },
   {
     "id": "glossier-cloud-paint-puff",
@@ -2819,7 +2924,8 @@
       "deep_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/glossier/glossier-cloud-paint-puff?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-puff.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/glossier-cloud-paint-puff.svg",
+    "productName": "Cloud Paint Gel-Cream Blush"
   },
   {
     "id": "benefit-benetint",
@@ -2844,7 +2950,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/benefit-cosmetics/benefit-benetint?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-benetint.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-benetint.svg",
+    "productName": "Benetint Rose-Tinted Lip & Cheek Stain"
   },
   {
     "id": "benefit-dandelion",
@@ -2868,7 +2975,8 @@
       "dark_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/benefit-cosmetics/benefit-dandelion?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-dandelion.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/benefit-dandelion.svg",
+    "productName": "Box o Powder Blush"
   },
   {
     "id": "tower-28-beachplease-magic-hour",
@@ -2893,7 +3001,8 @@
       "bright_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-beachplease-magic-hour?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-beachplease-magic-hour.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-beachplease-magic-hour.svg",
+    "productName": "BeachPlease Lip + Cheek Cream Blush"
   },
   {
     "id": "tower-28-beachplease-golden-hour",
@@ -2918,7 +3027,8 @@
       "cool_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/tower-28-beauty/tower-28-beachplease-golden-hour?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-beachplease-golden-hour.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/tower-28-beachplease-golden-hour.svg",
+    "productName": "BeachPlease Lip + Cheek Cream Blush"
   },
   {
     "id": "mario-soft-pop-barely-blushing",
@@ -2943,7 +3053,8 @@
       "cool_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/makeup-by-mario/mario-soft-pop-barely-blushing?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-soft-pop-barely-blushing.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-soft-pop-barely-blushing.svg",
+    "productName": "Soft Pop Plumping Blush Veil"
   },
   {
     "id": "mario-soft-pop-pinch-me-pink",
@@ -2968,7 +3079,8 @@
       "warm_spring"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/makeup-by-mario/mario-soft-pop-pinch-me-pink?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-soft-pop-pinch-me-pink.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/mario-soft-pop-pinch-me-pink.svg",
+    "productName": "Soft Pop Plumping Blush Veil"
   },
   {
     "id": "haus-labs-glassy-pitaya",
@@ -2993,7 +3105,8 @@
       "soft_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/haus-labs-by-lady-gaga/haus-labs-glassy-pitaya?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-glassy-pitaya.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/haus-labs-glassy-pitaya.svg",
+    "productName": "Color Fuse Glassy Blush Stick"
   },
   {
     "id": "fenty-match-stix-mocha",
@@ -3018,7 +3131,8 @@
       "light_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-match-stix-mocha?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-match-stix-mocha.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-match-stix-mocha.svg",
+    "productName": "Match Stix Matte Contour Skinstick"
   },
   {
     "id": "rare-bronzer-power-boost",
@@ -3043,7 +3157,8 @@
       "dark_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/rare-beauty/rare-bronzer-power-boost?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-bronzer-power-boost.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/rare-bronzer-power-boost.svg",
+    "productName": "Warm Wishes Effortless Bronzer Stick"
   },
   {
     "id": "nars-laguna-02",
@@ -3068,7 +3183,8 @@
       "cool_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/nars/nars-laguna-02?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-laguna-02.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/nars-laguna-02.svg",
+    "productName": "Laguna Bronzing Powder"
   },
   {
     "id": "merit-bronze-balm-seine",
@@ -3093,7 +3209,8 @@
       "cool_summer"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/merit-beauty/merit-bronze-balm-seine?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-bronze-balm-seine.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/merit-bronze-balm-seine.svg",
+    "productName": "Bronze Balm Sheer Sculpting Bronzer"
   },
   {
     "id": "ct-beauty-light-wand-pinkgasm",
@@ -3119,7 +3236,8 @@
       "deep_autumn"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-beauty-light-wand-pinkgasm?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-beauty-light-wand-pinkgasm.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-beauty-light-wand-pinkgasm.svg",
+    "productName": "Beauty Light Wand"
   },
   {
     "id": "ct-beauty-light-wand-peachgasm",
@@ -3145,7 +3263,8 @@
       "true_winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/charlotte-tilbury/ct-beauty-light-wand-peachgasm?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-beauty-light-wand-peachgasm.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/ct-beauty-light-wand-peachgasm.svg",
+    "productName": "Beauty Light Wand"
   },
   {
     "id": "saie-glowy-super-gel-sunglow",
@@ -3172,7 +3291,8 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/saie-beauty/saie-glowy-super-gel-sunglow?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-glowy-super-gel-sunglow.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/saie-glowy-super-gel-sunglow.svg",
+    "productName": "Glowy Super Gel Lightweight Dewy Highlighter"
   },
   {
     "id": "fenty-killawatt-trophy-wife",
@@ -3200,6 +3320,7 @@
       "winter"
     ],
     "canonicalShadeUrl": "https://www.glowindex.net/shade/fenty-beauty/fenty-killawatt-trophy-wife?ref=gh_open_cielab",
-    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-killawatt-trophy-wife.svg"
+    "svgBadgeUrl": "https://www.glowindex.net/api/embed/shade-badge/fenty-killawatt-trophy-wife.svg",
+    "productName": "Killawatt Freestyle Highlighter"
   }
 ]
