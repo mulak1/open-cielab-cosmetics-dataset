@@ -1,13 +1,48 @@
 # Open CIELAB Cosmetics & 12-Season Colorimetry Dataset (D65)
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/mulak1/open-cielab-cosmetics-dataset)](https://m8ven.ai/mcp/mulak1/open-cielab-cosmetics-dataset?s=readme)
 [![ChromaToneCVS Live Engine](https://www.glowindex.net/api/embed/season-badge/deep-winter.svg)](https://www.glowindex.net/chromatone?ref=gh_open_cielab)
 [![MAC Ruby Woo CIELAB](https://www.glowindex.net/api/embed/shade-badge/mac-ruby-woo.svg)](https://www.glowindex.net/shade/mac/mac-ruby-woo?ref=gh_open_cielab)
 [![Clinique Black Honey CIELAB](https://www.glowindex.net/api/embed/shade-badge/clinique-black-honey.svg)](https://www.glowindex.net/shade/clinique/clinique-black-honey?ref=gh_open_cielab)
 [![Charlotte Tilbury Pillow Talk CIELAB](https://www.glowindex.net/api/embed/shade-badge/charlotte-tilbury-pillow-talk.svg)](https://www.glowindex.net/shade/charlotte-tilbury/charlotte-tilbury-pillow-talk?ref=gh_open_cielab)
 
-An open-access spectrophotometric reference dataset of **121 iconic Sephora, MAC, Clinique, Rare Beauty, Fenty, NARS, Dior, Charlotte Tilbury & Drugstore cosmetic shades** calibrated in **CIE $L^*a^*b^*$ (D65 6500K standard illuminant)**, paired with **CIEDE2000 ($Delta E^*_{00}$) dupe distance matrices**, **20 certified cosmetic brand profiles**, and **12-Season Color Analysis harmony bounds**.
+An open-access spectrophotometric reference dataset and **Model Context Protocol (MCP) server** of **121 iconic Sephora, MAC, Clinique, Rare Beauty, Fenty, NARS, Dior, Charlotte Tilbury & Drugstore cosmetic shades** calibrated in **CIE $L^*a^*b^*$ (D65 6500K standard illuminant)**, paired with **CIEDE2000 ($\Delta E^*_{00}$) dupe distance matrices**, **20 certified cosmetic brand profiles**, and **12-Season Color Analysis harmony bounds**.
 
 Maintained by the [**GlowIndex™ Colorimetry Lab**](https://www.glowindex.net/?ref=gh_open_cielab).
+
+---
+
+## 🤖 Model Context Protocol (MCP) Server Setup
+
+This repository contains a full MCP server implementing the official Model Context Protocol. You can connect it directly to **Claude Desktop**, **Cursor**, **Gemini**, or any MCP-compatible AI agent to query cosmetic shades, calculate CIEDE2000 color differences ($\Delta E^*_{00}$), and match seasonal color palettes.
+
+### Run Locally
+
+```bash
+git clone https://github.com/mulak1/open-cielab-cosmetics-dataset.git
+cd open-cielab-cosmetics-dataset
+npm install
+npm start
+```
+
+### Claude Desktop Configuration (`claude_desktop_config.json`)
+
+```json
+{
+  "mcpServers": {
+    "cielab-cosmetics": {
+      "command": "node",
+      "args": ["/path/to/open-cielab-cosmetics-dataset/index.js"]
+    }
+  }
+}
+```
+
+### Available Tools:
+1. `search_cosmetics`: Search 121 calibrated cosmetics by brand, shade, category, or season.
+2. `get_shade_by_id`: Retrieve spectrophotometric profile & D65 coordinates for a specific shade ID.
+3. `find_ciede2000_dupes`: Find closest color matches & drugstore dupes using CIEDE2000 ($\Delta E^*_{00}$) optical distance.
+4. `get_seasonal_palette`: Retrieve 16 core spectrophotometric swatches and clashing colors for any 12-Season archetype.
 
 ---
 

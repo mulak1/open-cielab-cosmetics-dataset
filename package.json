@@ -1,0 +1,39 @@
+{
+  "name": "@glowindex/open-cielab-cosmetics-dataset",
+  "version": "1.0.0",
+  "description": "Open-access CIE L*a*b* D65 cosmetics dataset & Model Context Protocol (MCP) server for shade analysis, CIEDE2000 dupes, and seasonal color matching",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "open-cielab-cosmetics-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "modelcontextprotocol",
+    "cielab",
+    "ciede2000",
+    "cosmetics",
+    "color-analysis",
+    "colorimetry",
+    "sephora",
+    "beauty"
+  ],
+  "author": "GlowIndex (https://www.glowindex.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mulak1/open-cielab-cosmetics-dataset/issues"
+  },
+  "homepage": "https://www.glowindex.net/?ref=gh_open_cielab",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mulak1/open-cielab-cosmetics-dataset.git"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.0"
+  }
+}
