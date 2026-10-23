@@ -1,9 +1,15 @@
 # Open CIELAB Cosmetics & 12-Season Colorimetry Dataset (D65)
 
 [![M8ven Score](https://m8ven.ai/badge/mcp/mulak1-open-cielab-cosmetics-dataset-1tkmwh?v=25cef4b6fd4956ca3c797a57d39ac157)](https://m8ven.ai/mcp/mulak1-open-cielab-cosmetics-dataset-1tkmwh?s=readme)
+
+<br/>
+
 [![ChromaToneCVS Live Engine](https://www.glowindex.net/api/embed/season-badge/deep-winter.svg)](https://www.glowindex.net/chromatone?ref=gh_open_cielab)
+
 [![MAC Ruby Woo CIELAB](https://www.glowindex.net/api/embed/shade-badge/mac-ruby-woo.svg)](https://www.glowindex.net/shade/mac/mac-ruby-woo?ref=gh_open_cielab)
+
 [![Clinique Black Honey CIELAB](https://www.glowindex.net/api/embed/shade-badge/clinique-black-honey.svg)](https://www.glowindex.net/shade/clinique/clinique-black-honey?ref=gh_open_cielab)
+
 [![Charlotte Tilbury Pillow Talk CIELAB](https://www.glowindex.net/api/embed/shade-badge/charlotte-tilbury-pillow-talk.svg)](https://www.glowindex.net/shade/charlotte-tilbury/charlotte-tilbury-pillow-talk?ref=gh_open_cielab)
 
 An open-access spectrophotometric reference dataset and **Model Context Protocol (MCP) server** of **121 iconic Sephora, MAC, Clinique, Rare Beauty, Fenty, NARS, Dior, Charlotte Tilbury & Drugstore cosmetic shades** calibrated in **CIE $L^*a^*b^*$ (D65 6500K standard illuminant)**, paired with **CIEDE2000 ($\Delta E^*_{00}$) dupe distance matrices**, **20 certified cosmetic brand profiles**, and **12-Season Color Analysis harmony bounds**.
